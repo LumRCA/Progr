@@ -1,0 +1,833 @@
+{VERSION 6 0 "IBM INTEL NT" "6.0" }
+{USTYLETAB {CSTYLE "Maple Input" -1 0 "Courier" 1 12 255 0 0 1 2 1 2 
+2 1 2 0 0 0 1 }{CSTYLE "2D Output" -1 20 "Times" 1 12 0 0 255 1 2 2 2 
+2 2 2 0 0 0 1 }{PSTYLE "Normal" -1 0 1 {CSTYLE "" -1 -1 "Times" 1 12 
+0 0 0 1 2 2 2 2 2 2 1 1 1 1 }1 1 0 0 0 0 2 0 2 0 2 2 0 1 }{PSTYLE "Hea
+ding 1" -1 3 1 {CSTYLE "" -1 -1 "Times" 1 18 0 0 0 1 2 1 2 2 2 2 1 1 
+1 1 }1 1 0 0 8 4 2 0 2 0 2 2 0 1 }{PSTYLE "Maple Output" -1 11 1 
+{CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 1 1 1 }3 1 0 0 0 
+0 2 0 2 0 2 2 0 1 }{PSTYLE "Maple Plot" -1 13 1 {CSTYLE "" -1 -1 "Time
+s" 1 12 0 0 0 1 2 2 2 2 2 2 1 1 1 1 }3 1 0 0 0 0 2 0 2 0 2 2 0 1 }}
+{SECT 0 {SECT 0 {PARA 3 "" 0 "" {TEXT -1 11 "\307\340\344\340\355\350
+\345 3.1" }}{EXCHG {PARA 0 "" 0 "" {TEXT -1 428 "C\354\356\344\345\353
+\350\360\356\342\340\362\374 \361\353\363\367\340\351\355\363\376 \342
+\373\341\356\360\352\363 \356\341\372\345\354\340  n=40 \344\353\377 \+
+\361\353\363\367\340\351\355\356\351 \342\345\353\350\367\350\355\373 \+
+X , \350\354\345\376\371\345\351 \341\350\355\356\354\350\340\353\374
+\355\356\345 \360\340\361\357\360\345\344\345\353\345\355\350\345  \{b
+(k,m,p\} \361 \357\340\360\340\354\345\362\360\340\354\350 m=250 , p=0
+,1  . \304\353\377 \375\362\356\343\356 \355\340\357\350\361\340\362
+\374 \357\360\356\343\360\340\354\354\363 \343\345\355\345\360\340\366
+\350\350  N=nm \361\353\363\367\340\351\355\373\365 \344\345\361\377
+\362\350\367\355\373\365 \366\350\364\360 \350 \356\341\372\345\344
+\350\355\345\355\350\377 \350\365 \342 n  \343\360\363\357\357 \357
+\356  m \366\350\364\360, \352\356\362\356\360\340\377 \357\356\344
+\361\367\350\362\373\342\340\345\362 \367\350\361\353\356 \355\363\353
+\345\351 ni  \342  i-\351 \343\360\363\357\357\345. \302 \357\360\356
+\343\360\340\354\354\345 \342\347\377\362\374 \357\340\360\340\354\345
+\362\360\373 N=10000, n=40, m =250. \302 \361\350\353\363 \362\345\356
+\360\345\354\373 \314\363\340\342\360\340 - \313\340\357\353\340\361
+\340 \355\356\360\354\350\360\356\342\340\355\355\363\376 \361\353\363
+\367\340\351\355\363\376 \342\345\353\350\367\350\355\363 " }{OLE 1 
+4097 1 "[xm]Br=WfoRrB:::wk;nyyI;G:;:j::>:B>N:F:nyyyyy]::yyyyyy::::::::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::fyyyyya
+:nYf::G:jy;:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::JcvGYMt>^:fBWMtNHm=;:::::::n<Ejyyiy=?Z:NZHQ:>:;`:Z
+@[::JrdWPMKKHK`Aj;JZPZ:B:F:YLpfF>:::::::::J?NZ;vyyyyy=J:B:::::::c:;:=j
+[vGUMrvC?MoJ::::::::JCNZ;F:f:vYxY:B::::::F:;JmJ:j;vCj^nGGmq>:;::::::::
+_Z:vyyuy:>:<::::::AJ:n:>:nYN::wyyyq<:v:<J>j>J?>:Q:S:UJ:n;v;;JBB:]:_J:V
+<^<nYvY:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::=Z<>Z:B::::::::::F:wyyAb<vYxY;tV;J:>R<:TnEj``pkDqqHqqTPt<l\\@q
+t@Pt`pqtPJHMQ<]FZ>WdZfbk;>ZEZ?GHZhV@cYH_WV>Z:::::::V:>::::::::::^=N:qG
+q;]::sYUML>dq^J:VZ;FZ=FZDFZLVjRs:YZEF\\;NZ<P?<J?DJ=q]<Njbb>AFPDJ=EKKDk
+;q`LVjjc:?VDDJ;y\\=f;@JCHrp:>??B\\]K;TB>HF?;r<<:;:yayY:^:;j:<J:vYxY;<:
+;:ug>Fr<JwH:=j>r:uW:^:s:;j<j>D:;B:E:?R:B:E:=b:yyyyI:E:WS:k:E:Qb:B:E:Sb
+:;f:;R>_:Gc;YJGfB]mtFFcmnvGWMJnC==nHE=;:::::JJ<J;<jysy:>Z:>Z::::::J<>:
+s=;:?ja^G>D_mlVH[KRJ:<:::::::>=?R:AJ:^:vYxY:B::::::n:<JXI:<:::::::::::
+:vYxI:;Z::::::::::::::::::::yay=J:B::::::::vYxY:>\\:B:;xyyQUyyyyYZ=K:n
+`<B:QB:n>^;UTRcETcTX[US<Jj>;Ny<>:[Z::C:US:f:<JDDjEAJ?dj<jCDjw@jWdJ>JwK
+J<J:<:^:f?=j<JDVj;VaDf:V<Cc:?f<C:UK::cJLDJ?ej<jCNDKi<E:cJc:V<>rJ^=<jwE
+J:uI<:[V:>ZFaZ<B>cTTUUSaEBWTSiEB_tUUURWMf@usYqj@usYQJ<ntYqeDKmtJ<jPNZ:
+>;N`D>r;n_JF:F_s?;N@>bGF:F`s?;N@>vFFZ:>:KSXK:_;WT<=:YSXK:_;cF<=:M;N@>l
+=FZ:JN^=VY;sy>Z:JB[F=::nGVX==;;:f?AJ<JrAJ;<:N@cR:EV:=J:N_s_=VY;><:[n:B
+m:::W=aqjJJ::UK;^:>XAB:K:_KZOfIF:<Jr`Q>JSJ:hJ;jp<Q>JSJTUJ;jp:_;kC;=:kD
+VK:_;kl:>:kLHjw;<:[N:b:DZJVdscRYEU>eLN[D>glQ<kTfFF>>:jPV:C:[Q;>;N`DJIt
+j:jP<Q>JSJJQj:jP:_;Oe:=J:fajO;;B:G;OjyyiyI:>:sZ:VY[j=>:;JXE:lv:DJ;Dlc`
+qsLqlp`HvdLnF;B:OB:=K?A:<J;>:CFw_J<jP@J;^:>XAj;B:;:::Ja@Na`>;B:::_J;@j
+:<:AB:vYxY:B::::::FZ:Jm>Z:>:V:YLkNGnGGmq>:;::::::::_:yaya:vYxY:B::::::
+V:;6:" }{TEXT -1 73 "  \354\356\346\355\356 \361 \350\347\342\345\361
+\362\355\356\351 \361\362\345\357\345\355\374\376 \357\360\350\341\353
+\350\346\345\355\350\377 \361\367\350\362\340\362\374 \350\354\345\376
+\371\345\351 \360\340\361\357\360\345\344\345\353\345\355\350\345   " 
+}{OLE 1 3585 1 "[xm]Br=WfoRrB:::wk;nyyI;G:;:j::>:B>N:F:nyyyyy]::yyyyyy
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:fyyyyya:nYf::wyyyqy;:::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::NDYmq^H;C:ELq^H_mvJ::::::::gj<vyyuyJ;B:
+?bm?:;JZC:bKB::>hTaoNN^M^s;V:>r=B:<:=ja^GE=;:::::::::N;?R:yyyyyy:>:<::
+::::JDJ:j:VBYmp>HYLkNG>::::::::N<?R:=:EJ:vYxY:B::::::F:;JmJ:j;vCj^nGGm
+q>:;::::::::_Z:vyyuy:>:<::::::AJ:n:>:nYN::wAE:j=B:K:M:OJ:V;^;;j@>:W:wA
+yA::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::j:b:;B:<::::::::::=Jyyy;d:yayQZHQ:>:;`:Z@w<fccWflwgmwg`_hZfbkgh[
+_hcwgh?^mn_jB=BKaDBETV:;r<RK]=bEaKtaMSAA;B:::::::AJ<J:::::=J:>:::::^=N
+:GXjE;;:kSoeJdxVEB:;j;@j:HJ?dj:Dk;u^<Njbb:KFFDJ;m\\<>m<Vw<>kkb:?VD<Z::
+:::::::::jysyA:C:=:yayQZ:J:JuM:cc:Nt;>:=j>r:Ma:NZ:^=>:E:Mb:>Z:f:NZ;Z:f
+:FZ<vyyyy:f:n_;>=f:V[<>:<j<J@DZ<>j>N<n^@v;oj\\FHemj^HMmqnG;KaFFJufF;J:
+:::::>^:NZ:vYxI:;B:<::::::CZ:FB>:N:YLpJbNHEms>@[C:>Z::::::::kJ;@j;>:C:
+yayA:<::::::G:cb:>Z:j:<ja:;B:;:::::::::N;;B:yay=J:B::::::nYyA<::::::::
+::::jysy:>:<::::::::yayA:[B:<JZyyyoryyyyAb>J]AZ:V[:B:G;Sj`@Pt\\Pd`QrP@
+[LHB:qi:;fyB:>l;J:lV<DZJ^dcgg_WhZnc_whZNdigg[oGkTfayW=UfayW;CJeyWIe>Gu
+@CZ:f_;J>JSdJj@JYIj:B:MSXK:_;sr:=:]SXK:_;gg:=J:^_s?;N@^y;F:>`s?;N@>i;F
+:>_s_=VYZ:JBG:lF^D::W=aqjJJ::Uk:^:>x;J>JSJ`F:<Ja`Q?JMJ?vyyuy=:;JHjw?<I
+J:>:sg:<ZFIZ<NZ\\VdsWhngfgs@Ie>GM:N;=K?A:<:^jnQ<C:UK:^:>X=j;>Z:>::::WT
+JWTLB:::::::::::::::::::2:" }{TEXT -1 104 " .\304\353\377 \357\360\356
+\342\345\360\352\350 \375\362\356\351 \343\350\357\356\362\345\347\373
+ \357\356 \352\360\350\362\345\360\350\376 \312\356\353\354\356\343
+\356\360\356\342\340 \361\353\345\344\363\345\362 \342\373\367\350\361
+\353\350\362\374 \344\353\377 \355\340\351\344\345\355\355\356\351 \+
+\361\353\363\367\340\351\355\356\351 \342\345\353\350\367\350\355\373 \+
+" }{OLE 1 3585 1 "[xm]Br=WfoRrB:::wk;nyyI;G:;:j::>:B>N:F:nyyyyy]::yyyy
+yy::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::fyyyyya:nYf::wyyyqy;:::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::NDYmq^H;C:ELq^H_mvJ::::::::gj<vyyuyJ;
+B:?bm?:;JZC:bKB::>hTaoNN^M^s;V:>b=B:<:=ja^GE=;:::::::::N;?R:yyyyyy:>:<
+::::::JDJ:j:VBYmp>HYLkNG>::::::::N<?R:=:EJ:vYxY:B::::::F:;JmJ:j;vCj^nG
+Gmq>:;::::::::_Z:vyyuy:>:<::::::AJ:n:>:nYN::wAJ=j=>Z:>;F;N;;j?J@Jyky;:
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::j:b:;B:<::J>XoCJ:::::::F:wyyAb<vYxY;tV;J:>R<:TnEj``pkDqqHqqTPt<l\\
+@qt@Pt`pqtPJHMQ<]FZ>WdZfbk;>ZEZ?GHZhV@cYH_WV>Z:::::::V:CJ:>::::::::::s
+:?JYAVGB:;:kiqeJhqUEB:;j;@j:HJ?dj:Dk;]_=v;hjB@J;DROJ:::yayY:^:F:;jysy?
+B:>:vd<B:]b:;B:_V:F:MZ=FS;B:?JHJ:f:F[<>:;B:E:?R:B:E:=b:yyyyI:E:WS:k:E:
+Qb:B:E:Sb:;Y:;c:_:Gc;YJGvyyuy;B:[B:<JZyyywpyyyyAv;>:iV:V[:JMJ@fc[_hb_d
+s?h_KJ<JHB:qi:;sy>Z:JBAj\\FHemj^HMmqnG;KaFFJufF<J::::::>>?B:yay=J:B:::
+:::^:n@>:N:YLpJb<JsfFaMR>`:J:<:::::::>=?R:AJ:^:vYxY:B::::::f:<JdA:;B:F
+Z:vCJ:>:::::::::J?jysy:>:<::::::wqy[:::::::::::::vYxI:;Z:::::::::lV<DZ
+J^dcgg_WhZnc_whZNdigg[oGkTfayW=UfayW;CJeyWSe>GUBC:US:>[:JSdJtgj;F:<JO`
+QHjw?jx]:JBGZ:Bm:::W=aqjJJfX:f?=J<JrAZ:>;N@;W:kl:B:kTXO:G;Ojysy=:;JHjw
+?<I:;JXE:;Bm=b:?bBaTXaEWEUU@LpDKm>:OjJNk;J:<:^jnQ<C:UK:^:>X=j;B:;:::Ja
+@Na`><::::::::::::::::::::::::::::::::::::::::2:" }{TEXT -1 46 " \361 \+
+\357\356\354\356\371\374\376 \352\356\354\340\355\344 Maple (\350\353
+\350 \343\360\340\364\350\352\340) \347\355\340\367\345\355\350\345" }
+{OLE 1 4097 1 "[xm]Br=WfoRrB:::wk;nyyI;G:;:j::>:B>N:F:nyyyyy]::yyyyyy:
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+fyyyyya:nYf::G:jy;::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::JcvGYMt>^:fBWMtNHm=;:::::::n<Ejyyiy=?Z:NZHQ
+:>:;`:Z@[::JrdWPMKKHK`Aj;JZQZ:B:F:YLpfF>:::::::::J?NZ;vyyyyy=J:B::::::
+:c:;:=j[vGUMrvC?MoJ::::::::JCNZ;F:f:vYxY:B::::::F:;JmJ:j;vCj^nGGmq>:;:
+:::::::_Z:vyyuy:>:<::::::AJ:n:>:nYN::wyyyq<:v:<J>j>J?>:Q:SJ:f;;JAjA>:[
+Z:F<N<;jCJDjDJE>:wAyA:::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::F:DJ:<Z::::::::::j:nyyYZDjysy?bm?:;JZC:bKi:UTTAeVY
+uVYeScEBETVeURcUTYeU;sFWCFl:Lnc<l\\@AJ:h:Pnr:tlS^xsNpkK:<::::::j;^:>::
+::::::::s:?JguWhJ:Jf@r^>j=HC>:AR:=r:=b<=b:CFgAb:GVIHj@R:_rZW]EF<Ob:EF_
+Ab:?FDDk;U^=v[<r<=b>A>=b:?fDHjA<ZFF\\;NZR@[e]:N[<Njfb:kf:Qi>AfKDJ;a\\:
+B::vYxy;J<j:<J:vYxY;<J:>:>hEJlE:Ox:;j:F;HjlA:CJHJ:f:F[<J:<j<J;@:<j<j:D
+jyyyy=j<JQ@JFj<j?D:<j<J@DJJEJjdJCJMTjAN=ElrfH=MtFGYMq>>Wlj:gmlJ::::::>
+^:NZ:vYxI:;B:;B::::::^:;JvJ:J;vCS=[LsfFaMR>`:J:<:::::::>=?R:AJ:^:vYxY:
+B::::::n:<J@L:<::::::::::::vYxI:;Z::::::::::::::::::::yay=J:B::::::::v
+YxY:>\\:B:;xyyQOyyyyYJdJ:Nc<j?<Z:n>^;UTRcETcTX[US<Jj>;;JwEJ:><<:^:f_;j
+<B:cb:KV:Sg:E:ab:SU:uh:K:oA;C:;B:J<jPFZ:f:^<cU:uh:E:aJuAJLHJ<jP>:JDnx;
+^_=f:V<_M?Ij<JDNH:a:gE;sZ:Vy<>jxM:<:[V:>ZFaZ<B>cTTUUSaEBWTSiEB_tUUURWM
+f@usYqj@usYQJ<ntYqsDKmLK<jPN:K:_c<;Y:sV<=:MSXKJ:N@^wAF:;JP`Q>JSJmPj:JN
+`QHjw?^yM:<:[>lF::JqjsGF>>VH:Uk;^:>x;NZ::_KT@jBXj:JO`QHjw?JB:>L=J:lF::
+JqjsGF>>:jPN:C:[q;<J>JS>VKF<=Z:nbs?;N@^y?F:nBJSJKIj:Jq`QHjw?>B:>LBm:::
+W=aqjJJ::Uk;^:>X?J>JS>b<ns@F:;B:W=VY;><:[N:b:DZJVdscRYEUFhLN[X>glQ<kTf
+FF>>:jPN:C:[q;>;N`D>V[E;=:CTXK:_;_U:=:uSXsZ:VYZ:JBG:DJ<D:jqjtDK?lJnDYC
+:==;;:f?AJ<JrO:KJ:N`DJK<j:B:CUXOZ:n>N;yyyxy:>:;JHB:qQBv:;J:^q<>:lv:DJ;
+Dlc`qsLqlp`NVhLnF;B:OB:=K?A:<J;<J:^jnQ<CZ:f??J<JrW:AZ:>::::WTJWTL>Z:vY
+xI::::::::::::::::::4:" }{TEXT -1 89 ". \307\340\362\345\354 \356\357
+\360\345\344\345\353\377\345\362\361\377  \342\345\360\356\377\362\355
+\356\361\362\374 , \356 \352\356\362\356\360\356\351 \355\340\365\356
+\344\350\362\361\377 \352\360\350\362\350\367\345\361\352\340\377 \350
+ \344\356\357\363\361\362\350\354\340\377 \356\341\353\340\361\362\350
+." }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 8 "restart:" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 12 "with(stats):" }}}{EXCHG {PARA 0 "> \+
+" 0 "" {MPLTEXT 1 0 54 "r:= rand(0..9): r(): f:= k->r(): m:=250: p:=0.
+1:N:=40:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 70 "x1:=sort([seq(s
+um('1-signum(f(k))','k'=250*i+1..250*(i+1)),i=1..40)]):" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 47 "x2:=[seq((x1[i]-m*p)/sqrt(m*p*(1-p)
+),i=1..40)]:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 75 "h:=0:k1:=(-
+x2[1]+x2[N])/0.1: F2:=[seq(r(),k=1..k1)]:F1:=[seq(r(),k=1..k1)]:" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 14 "xn:=x2[1]-0.1:" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 166 "for i from 1 to k1 do\nfor j from \+
+1 to N do if (x2[j]<xn) then h:=h+1: end if: end do:F1[i]:=statevalf[c
+df,normald[0,1]](xn):F2[i]:=evalf(h/N):h:=0: xn:=xn+0.1:end do:" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 7 "F1: F2:" }}}{EXCHG {PARA 0 ">
+ " 0 "" {MPLTEXT 1 0 9 "delta:=0:" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 80 "for i from 1 to k1 do  delta:=max(delta,abs(F1[i]-F2[
+i])): end do: delta:=delta;" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%&delt
+aG$\"+I7<[9!#5" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 28 "sigma:=ev
+alf(delta*sqrt(N));" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%&sigmaG$\"+d!
+R!f\"*!#5" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 54 "P:=-2*sum(((-1
+)^g)*exp(-2*(g^2)*(sigma^2)),g=1..1000);" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "6#>%\"PG$\"+!G'\\6P!#5" }}}}{SECT 0 {PARA 3 "" 0 "" {TEXT -1 11 "
+\307\340\344\340\355\350\345 3.2" }}{EXCHG {PARA 0 "" 0 "" {TEXT -1 
+80 "\321\343\345\355\345\360\350\360\356\342\340\362\374 100 \367\353
+\345\355\356\342 \361\353\363\367\340\351\355\356\351 \357\356\361\353
+\345\344\356\342\340\362\345\353\374\355\356\361\362\350, \360\340\361
+\357\360\345\344\345\353\345\355\355\373\365 \357\356 \347\340\352\356
+\355\363 " }{OLE 1 3585 1 "[xm]Br=WfoRrB:::wk;nyyI;G:;:j::>:B>N:F:nyyy
+yy]::yyyyyy:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::fyyyyya:nYf::wyyyqy;::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::NDYmq^H;C:ELq^H_mvJ::::::::g
+j<vyyuyJ;B:?bm?:;JZC:bKB::>hEwoNN^M^s;V:>j=B:<:=ja^GE=;:::::::::N;?R:y
+yyyyy:>:<::::::JDJ:j:VBYmp>HYLkNG>::::::::N<?R:=:EJ:vYxY:B::::::F:;JmJ
+:j;vCj^nGGmq>:;::::::::_Z:vyyuy:>:<::::::AJ:n:>:nYN::wAJ=j=>Z:>;;j>J?>
+:Q:S:UJ:nYvY::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::j:b:;B:<::::::::::=Jyyy;d:yayQZHQ:>:;`:Z@w<fccWflwgmw
+g`_hZfbkgh[_hcwgh?^mn_jB=BKaDBETV:;r<RK]=bEaKtaMSAA;B:::::::A:;:::::::
+:::s:?jvEXLJ:Jxqp^>[tGC>:AR:=r:=b<=b>AfMDJ;]\\<>kkb:?FEDJ>M]<NjcB:<JGE
+jyyyyyy;J<j:>:yayQZ:J:JcM:cc:Nt;j:F;Hjn?Z:N:s:;j<j>D:;B:E:?R:B:E:=b:yy
+y<j<JQ@JFj<j?D:<j<J@DZ<>f>N<n^@v;ojyyiyAZ:>\\:B:;xyyQ]yyyyYJL:GX:V[:JM
+J@fc[_hb_ds?h_Kb^=<jwEJ:uI<:[V:ElrfH=MtFGYMq>>Wlj:gmlB:;:::::JJ<J;<jys
+y:>:;B::::::^:<JZB:J;vCS=[D:_E:Ems>@[;;B:::::::JFNZ;V:;J<jysy;Z::::::j
+<B:cb:>Z:::::::::::::yay=J:B:::::::::::::::::::jysy:>:<::::::::BmCb:<K
+d`ppPps<LaPpu<Lcxpp@Pq>ekXxqGfkXxq?^:gxqW`Lnfp^:f_;J>>:_c<;U:ov:=Z:F_s
+?;N@Nu<F:;JT`Q>JSJtDj:JP`Q>JSJfAj:jR`Q>JSJv@j:JN`QHjw;<:[n:BmJd::nGVX=
+=;;:f?=J<JrA:K:_;Sl:B:WTXOZ:n>N;yayI:;J:^=VY[j=J:^q<B:lv:DJ;Dlc`qsLqlp
+`pV`LnF;J?F>OV:B:J<MYC^:f?;J<JrG:AZ:>::::WTJWTLB::::::::::::::::::::::
+:::::::6:" }{TEXT -1 26 ". \315\340\351\362\350 \342\373\341\356\360
+\356\367\355\356\345 \361\360\345\344\355\345\345" }{OLE 1 3585 1 "[xm
+]Br=WfoRrB:::wk;nyyI;G:;:j::>:B>N:F:nyyyyy]::yyyyyy:::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::fyyyyya:nYf::wyyyq
+y;::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::NDYmq^H;C:ELq^H_mvJ::::::::gj<vyyuyJ;B:?bm?:;JZC:bKB::>hEw
+oNN^M^s;V:>b=B:<:=ja^GE=;:::::::::N;?R:yyyyyy:>:<::::::JDJ:j:VBYmp>HYL
+kNG>::::::::N<?R:=:EJ:vYxY:B::::::F:;JmJ:j;vCj^nGGmq>:;::::::::_Z:vyyu
+y:>:<::::::AJ:n:>:nYN::wAE:j=B:K:M:OJ:V;^;nYvY::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::F:DJ:<Z:::>v>n;[Mr
+<jnnGIMJ<jRV@SKJvBEMqfHM=Em^JtF:wyyAb<vYxY;tV;B:;JZC:bKiZ:fccWflwgmwg`
+_hZfbkgh[_hcwgh?^mn_jB=BKaDBETV:;r<RK]=bEaKtaMSAA;B::fGGln^GVHuk[NAsLb
+NHY=AJ<fG;K]<::;jcfBalcFCYLanC=l`fBu;YMqVHYMpJ:<:s:?J]AvT>:;:kGseJhpnD
+J:VZ;FZ=N[DFZlVjrc;]Z=v;hjB@J;\\S>hHOr:Y:VZIJ@@k:D:B:;:ALWJ\\vCAldfCnI
+]KhN@?LT>Aw=^CY<=lyyiyY:^:;j:>Z:vYxY;<Z:>:^`<B:=h:<Jm@:=j>r:a?AB:s:;j<
+j>D:;B:E:?R:B:E:=b:yyyyI:E:WS:k:E:Qb:B:E:Sb:;f:;b:_J:n^@v;oj\\FHemj^HM
+mqnG;KaFFJufF>::::::;C:?B:yay=J:<J:<::::::C:]<;:?ja^G>d:NHEms>`:>`:J:<
+:::::::>=?R:AJ:^:vYxY:B::::::n:<JNA:<:=B:Y<>Z:>:::::::::J?<Z:vYxI:;Z::
+::::JywYB:::::::::::::yay=J:B::::::::vYxY:>\\:B:;xyyqUyyyyYZA:ic:<j?<:
+G;Sj`@Pt\\Pd`QrP@[K>JwEJ:><;B:J<jP@:EZ:^\\<N`;FEE:ab:_S:=R:sJ:<jwEJ:uI
+<:[V:=ZFaZ<B>cTTUUSaEBWTSiEB_tUUURWMf@usYqj@usYQJ<ntYqaDKm^Z:jPFZ:>;N`
+D>^<^C=Z:>IO:G;OjyyiyI:>:s:qQBv:>:sg:>ZFIZ<NZ\\VdsWhngfgkaDKm>:OjJNk;Z
+:vYxY<MYC<J<jPN:C:[Y:=j;B:;:::Ja@Na`>;B:yay=::::::::::::::::::::::::::
+::::::::6:" }{TEXT -1 25 "   \350 \342\373\341\356\360\356\367\355\363
+\376 \344\350\361\357\345\360\361\350\376" }{OLE 1 3585 1 "[xm]Br=WfoR
+rB:::wk;nyyI;G:;:j::>:B>N:F:nyyyyy]::yyyyyy:::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::fyyyyya:nYf::wyyyqy;::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::NDYmq^H;C:ELq^H_mvJ::::::::gj<vyyuyJ;B:?bm?:;JZC:bKB::>hEwoNN^M^s;
+V:>b=B:<:=ja^GE=;:::::::::N;?R:yyyyyy:>:<::::::JDJ:j:VBYmp>HYLkNG>::::
+::::N<?R:=:EJ:vYxY:B::::::F:;JmJ:j;vCj^nGGmq>:;::::::::_Z:vyyuy:>:<:::
+:::AJ:n:>:nYN::wAJ=j=>Z:>;F;N;;j?J@Jyky;::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::::::j:b:;B:<::JbMSEJ:::::::F:
+wyyAb<vYxY;tV;J:>R<:TnEj``pkDqqHqqTPt<l\\@qt@Pt`pqtPJHMQ<]FZ>WdZfbk;>Z
+EZ?GHZhV@cYH_WV>Z:::::::V:>::::::::::^=N:Cxos:;:cUeMLFtr^J:VZ;FZ=FZDFZ
+LVjms:YZEF\\;NZBP@>::jysyA:CJ:F:;jysy?B:>:Ns;JTD:_V:F:MZ=FS;B:?JHJ:f:F
+[<>:;B:E:?R:B:E:=b:yyyyI:E:WS:k:E:Qb:B:E:Sb:DJJAJCJMTjAN=yyyxY:<JB<Z:>
+ryyYiwyyyy;U:vp;j?<:G;Sj`@Pt\\Pd`QrP@[KHB:qi:;sy>Z:JBAj\\FHemj^HMmqnG;
+KaFFJufF<J::::::>^:NZ:vYxI:;Z::::::J<JVJ:J;vCS=[D:_mlVH[KRJ:<:::::::>=
+?R:AJ:^:vYxY:B::::::f:<JdA:;B::::::::::::jysy:>:<:::::::::::::::::::vY
+xI:;Z:::::::::lV<DZJ^dcgg_WhZnc_whZNdigg[oGkTfayW=UfayW;CJeyWmd>GuuC:U
+S:>;N`D^X]q:B:`QHjw?jx]:JBG:lF::JqjsGF>>eA:Uk:^:>x;J>JSdJJAJZFZ:B:aUXO
+Z:n>N;yayI:;J:^=VY[j=J:^q<B:;Bm=b:?bBaTXaEWEUUxxfDKm>Z:N;=K?A:<:^jnQ<C
+:UK:^:>X=j;B:;:::Ja@Na`><::::::::::::::::::::::::::::::::::::::::2:" }
+{TEXT -1 23 "  .\n\310\361\357\356\353\374\347\363\377 \352\360\350
+\362\345\360\350\351 " }{OLE 1 4097 1 "[xm]Br=WfoRrB:::wk;nyyI;G:;:j::
+>:B>N:F:nyyyyy]::yyyyyy:::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::fyyyyya:nYf::G:jy;::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::::::::::::JcvGYMt>^:fBWMtNHm=
+;:::::::n<Ejyyiy=?Z:NZHQ:>:;`:Z@[::JrhnQMKKHK`Aj;JZPZ:B:F:YLpfF>::::::
+:::J?NZ;vyyyyy=J:B:::::::c:;:=j[vGUMrvC?MoJ::::::::JCNZ;F:f:vYxY:B::::
+::F:;JmJ:j;vCj^nGGmq>:;::::::::_Z:vyyuy:>:<::::::AJ:n:>:nYN::wyyyq<:v:
+<J>j>J?>:Q:S:UJ:n;v;;JBB:]:_J:V<^<nYvY::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::=Z<>Z:B:::kU:S:;::::::j:nyyYZDj
+ysy?bm?:;JZC:bKi:UTTAeVYuVYeScEBETVeURcUTYeU;sFWCFl:Lnc<l\\@AJ:h:Pnr:t
+lS^xsNpkK:<::::::j;^:;J::::::::::^=N:GXjWL:>:>tgi<cfqe:;j;@j:HJ?dj:DJ<
+Yv;HjAr<]R:?B\\_;Ob:GVIDj<Ms;DJ;]\\LVj@s:Yb:hj:Dk;u@=b:?fD>:DRPNZRPZeQ
+\\=pB?bZMK:>::::vYxy;J<j:<J:vYxY;<J:>:^wCJIE:?t:F:MZ=Fn;J;^=>:E:Mb:>Z:
+f:NZ;Z:f:FZ<vyyyy:f:n_;>=f:V[<Z:f:^[<>f<R<_B:n^@v;oj\\FHemj^HMmqnG;KaF
+FJufF>::::::;C:?B:yay=J:<J:<::::::C:OM:>:N:YLpJbNHEms>@[C:>Z::::::::kJ
+;@j;>:C:yayA:<::::::GZ:^j=B:<:=B:Y<>Z:>:::::::::J?<:yay=J:B::::::nYyA<
+::::::::::::jysy:>:<::::::::yayA:[B:<JZyyywpyyyyArBjEDZ:V[:JMJ@fc[_hb_
+ds?h_Kj^=<jwEJ:uI;B:>l;ZFaZ<B>cTTUUSaEBWTSiEB_tUUURWMf@usYqj@usYQJ<ntY
+qpDKmPN<jP@:KZ:N`D>n;>cBF:<jN`Q>JSJFUj:>:SSXK:_;?E;=:KSXs:qQJxI;B:>LBm
+:::W=aqjJJ::Uk:^:>x;J>JS^XUb;=Z:N_s?;N@Fd;F:;Zs_=VY;><:[n:Bm:::W=aqjJJ
+fX:f?;J<JrG:K:_c<;OTXj:>Z:nbs?;N@>y>F:nBs:qQJZ:JBK:lF::JqjsGF>>:jPF:C:
+[Q:>;N@;b:OX;=Z:ngs_=VY;><:[N:b:DZJVdscRYEUNyKN[a@glQ<kTfFF>>:jP>:C:[q
+:>[:JSdJJ_g=F:<J\\`Q>JSJZDj:<J:fas_=<jw;<:[n:>Z<^Z<jcjqJtDK?pLnDYC:==;
+;:f?=J<Jr?:K:_c<nB=Z:VfsO;n>N;yyyxy:J:^=<jw?<IJ:>:sg:>ZFIZ<NZ\\VdsWhng
+fgSKUe>GM:N;=K?A:<:^jnQ<C:UK:^:>X=j;B:;:::Ja@Na`>;B:::::::::::::::::::
+::::::::::::::::::::::::2:" }{TEXT -1 71 " , \357\360\356\342\345\360
+\350\362\374 \343\350\357\356\362\345\347\363 \355\356\360\354\340\353
+\374\355\356\361\362\350 \360\340\361\357\360\345\344\345\353\345\355
+\350\377 \357\360\350 \363\360\356\342\355\345 \347\355\340\367\350
+\354\356\361\362\350 " }{OLE 1 3585 1 "[xm]Br=WfoRrB:::wk;nyyI;G:;:j::
+>:B>N:F:nyyyyy]::yyyyyy:::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::fyyyyya:nYf::wyyyqy;::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::NDYmq^H;C:ELq^H_
+mvJ::::::::gj<vyyuyJ;B:?bm?:;JZC:bKB::>hEwoNN^M^s;V:>r=B:<:=ja^GE=;:::
+::::::N;?R:yyyyyy:>:<::::::JDJ:j:VBYmp>HYLkNG>::::::::N<?R:=:EJ:vYxY:B
+::::::F:;JmJ:j;vCj^nGGmq>:;::::::::_Z:vyyuy:>:<::::::AJ:n:>:nYN::wAJ=j
+=>Z:>;F;N;;j?J@>:UJ:n;nYvY::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::=Z<>Z:B:::[t\\i:;::::::j:nyyYZDjysy?bm?
+:;JZC:bKi:UTTAeVYuVYeScEBETVeURcUTYeU;sFWCFl:Lnc<l\\@AJ:h:Pnr:tlS^xsNp
+kK:<::::::j;J::::::::::JHJ;Fy\\a>>:^x[HC;hbM<;j;@j:Hj:dj:DJ<Au;DJ=q]<>
+kjb:?FEDJ>K>Q=<:yayY:^:F:;jysy?B:>:>\\@JTD:Ob:;j:F;Hj<@:?B:s:;j<>:Mb:>
+Z:f:NZ;Z:f:FZ<vyyyy:f:n_;>=f:V[<Z:f:^[<b:;V;_B:;JMTjAN=yyyxY:<JB<Z:>ry
+yYGxyyyy;T;nr;j?<Z:n>^;UTRcETcTX[US>DsZ:Vy<>jx]:JBAj\\FHemj^HMmqnG;KaF
+FJufF<J::::::>^:NZ:vYxI:;J:<::::::C:;\\::?ja^G>d:Nh:fFaMR>@>Z::::::::k
+J;@j;>:C:yayA:<::::::EZ:^c<B:;B::::::::::::jysy:>:<:::::::::::::::::::
+vYxI:;Z:::::::::lV<DZJ^dcgg_WhZnc_whZNdigg[oGkTfayW=UfayW;CJeyWMf>GUAC
+:US:>;N`D>f;>t=NZ:JRPM>JSd:[u:=B:<JPPM>JSJUEj:>:[KH>:qAB:>L;Z<b:;B>aTX
+Dpql@ub>OrGKev_Jf@E==;;:f?=J<JrA:KJ:N`DJBAj:>Z:fao^=<jw;<:[n:b:Cb::Y=e
+c>OBKKev_:FF>>:jP>:C:[q:>;N`DJH<j:B:=UGOZ:n>N;yayI:>:sZ:VY[j=J:^q<ZFIZ
+<NZ\\VdsWhngfgSAMf>GM:N[:F>OV:B:=B:^jnQ<C:Uk:^:>X;j;<J:<J::::nc;ocCK:<
+jysy::::::::::::::::::6:" }{TEXT -1 4 "  .\n" }}}{EXCHG {PARA 0 "> " 
+0 "" {MPLTEXT 1 0 40 "r:= rand(0..9): r(): f:= k->r(): N:=100:" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 60 "x1:=sort([seq(statevalf[cdf,
+ normald[1,4]](r()),i=1..100)]):" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 39 "vyb_srednee:=evalf(describe[mean](x1));" }}{PARA 11 "
+" 1 "" {XPPMATH 20 "6#>%,vyb_sredneeG$\"+(fd6m(!#5" }}}{EXCHG {PARA 0 
+"> " 0 "" {MPLTEXT 1 0 49 "vyb_disp:= evalf(N/(N-1)*describe[variance]
+(x1));" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%)vyb_dispG$\"+rcHJM!#6" }}
+}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 21 "j:=1: count:=1: n:=1:" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 78 "for i from 2 to 100 do  if(x
+1[i-1]=x1[i]) then else n:=n+1: end if end do; \nn;" }}{PARA 11 "" 1 "
+" {XPPMATH 20 "6#\"#7" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 129 "v
+:=[seq(0,k=1..n)]: h:=[seq(0,k=1..n)]: chast:=[seq(0,k=1..n)]: c:=[seq
+(0,k=1..n)]: v[1]:=x1[1]: c:=[seq(0,k=1..n)]: chast[1]:=1:" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 146 "for i from 2 to 100 do  if(x1[i-1]
+=x1[i]) then v[j]:=x1[i]: chast[j]:=chast[j]+1: else j:=j+1: v[j]:=x1[
+i]: chast[j]:=1:  end if end do; v; chast;" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#7,$\"+Vn$H,%!#5$\"+++++]F&$\"+dK1()fF&$\"+8Yi9pF&$\"+wk
+sLxF&$\"+huW8%)F&$\"+jA]V*)F&$\"+()z#>L*F&$\"+J%3%*f*F&$\"+\"o)\\s(*F&
+" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#7,\"\"(\"#7\"\"*F&\"#5\"#:F&F&F&\"
+#6" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 64 "for k from 1 to n-1 d
+o h[k]:=v[k+1]-v[k] end do: h[n]:=h[n-1]:h;" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#7,$\"*dK1()*!#5F$$\"*c8cF*F&$\"*j=5>)F&$\"*&)4sz'F&$\"*
+-[0I&F&$\"*CdU)QF&$\"*W/[n#F&$\"*]-4t\"F&F3" }}}{EXCHG {PARA 0 "> " 0 
+"" {MPLTEXT 1 0 106 "for k from 1 to n do U[k]:=(v[k]-vyb_srednee)/sqr
+t(vyb_disp):  Fi[k]:=exp(-(U[k]^2/2))/sqrt(2*Pi): end do:" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 67 "for k from 1 to n do st_sv[k]:=N*h[
+k]*Fi[k]/sqrt(vyb_disp)  end do:" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 53 "chi2:=evalf((sum('chast[k]^2/st_sv[k]','k'=1..n)-N));
+" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%%chi2G$\"+pE*\\2\"!\"(" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 8 "a:=0.05;" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#>%\"aG$\"\"&!\"#" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 
+1 0 43 "chi21:=statevalf[icdf,chisquare[n-3]](1-a);" }}{PARA 11 "" 1 "
+" {XPPMATH 20 "6#>%&chi21G$\"+XSr19!\")" }}}}{SECT 0 {PARA 3 "" 0 "" 
+{TEXT -1 11 "\307\340\344\340\355\350\345 3.3" }}{EXCHG {PARA 0 "" 0 "
+" {TEXT -1 109 " \321\343\345\355\345\360\350\360\356\342\340\362\374 \+
+100 \367\353\345\355\356\342 \361\353\363\367\340\351\355\356\351 \357
+\356\361\353\345\344\356\342\340\362\345\353\374\355\356\361\362\350, \+
+\360\340\361\357\360\345\344\345\353\345\355\355\373\365 \357\356 \357
+\356\352\340\347\340\362\345\353\374\355\356\354\363 \347\340\352\356
+\355\363 \361 \357\340\360\340\354\345\362\360\356\354 " }{OLE 1 3585 
+1 "[xm]Br=WfoRrB:::wk;nyyI;G:;:j::>:B>N:F:nyyyyy]::yyyyyy:::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::fyyyyya:nYf:
+:wyyyqy;::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::NDYmq^H;C:ELq^H_mvJ::::::::gj<vyyuyJ;B:?bm?:;JZC:bKB
+::>hEwoNN^M^s;V:>j=B:<:=ja^GE=;:::::::::N;?R:yyyyyy:>:<::::::JDJ:j:VBY
+mp>HYLkNG>::::::::N<?R:=:EJ:vYxY:B::::::F:;JmJ:j;vCj^nGGmq>:;::::::::_
+Z:vyyuy:>:<::::::AJ:n:>:nYN::wAJ=j=>Z:>;;j>J?>:Q:S:UJ:nYvY::::::::::::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::j:b:;B:
+<::::::::::=Jyyy;d:yayQZHQ:>:;`:Z@w<fccWflwgmwg`_hZfbkgh[_hcwgh?^mn_jB
+=BKaDBETV:;r<RK]=bEaKtaMSAA;B:::::::A:;::::::::::s:?jWmWFJ:Jxqp^>[tGC>
+:AR:=r:=b<=b:CvhAb:GVIDJ>I=<:::yayY:^:F:;jysy?B:>:Vu=jpA:OY:F:MZ=fXN:s
+:;j<j>D:<j<J;@:<j<j:Djyyyy=j<JQ@JFj<j?D:<j<J@DJZAJ:IJCJMTjAN=yyyxY:<JB
+<Z:>ryyYGxyyyy;t:nj;j?<:G;Sj`@Pt\\Pd`QrP@[KHB:qi:;fyB:>l;fB]mtFFcmnvGW
+MJnC==nHE]:>::::::;C:?B:yay=J:>Z::::::J<JTJ:J;vCS=[D:_mlVH[KRJ:<::::::
+:>=?R:AJ:^:vYxY:B::::::f:<JPD:;B::::::::::::jysy:>:<::::::::::::::::::
+:vYxI:;Z:::::::::lV<DZJ^dcgg_WhZnc_whZNdigg[oGkTfayW=UfayW;CJeyWWf>GU@
+CJ:f_;J>JSdJj@JFEj:>Z:V`s_=VYZ:JB?:DZ<B>aTXDpql@Yf>OB<Kev_Jf@E==;kt;>:
+Uk:^:>x;J>JSd:kU:=J:<jX`QHB:qAB:>L=Z<^Z<:vG^]LN[:?glQ<jjJJfX:;jP>:C:[q
+:>;N`DJT<j:B:SUXOZ:n>N;yayI:>:sB:<jw?<I:;JXE:lv:DJ;Dlc`qsLqlp`SnkLnF;J
+?F>OV:B:=B:^jnQ<C:Uk:^:>X;j;<Z:>::::WTJWTL>Z::::::::::::::::::::::::::
+2:" }{TEXT -1 27 " . \315\340\351\362\350 \342\373\341\356\360\356\367
+\355\356\345 \361\360\345\344\355\345\345" }{OLE 1 3585 1 "[xm]Br=WfoR
+rB:::wk;nyyI;G:;:j::>:B>N:F:nyyyyy]::yyyyyy:::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::fyyyyya:nYf::wyyyqy;::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::NDYmq^H;C:ELq^H_mvJ::::::::gj<vyyuyJ;B:?bm?:;JZC:bKB::>hEwoNN^M^s;
+V:>Z=B:<:=ja^GE=;:::::::::N;?R:yyyyyy:>:<::::::JDJ:j:VBYmp>HYLkNG>::::
+::::N<?R:=:EJ:vYxY:B::::::F:;JmJ:j;vCj^nGGmq>:;::::::::_Z:vyyuy:>:<:::
+:::AJ:n:>:nYN::wAJ=j=>Z:>;F;N;;j?Jyky;::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::F:DJ:<Z:::>kEF=>:::::::=Jy
+yy;d:yayQZHQ:>:;`:Z@w<fccWflwgmwg`_hZfbkgh[_hcwgh?^mn_jB=BKaDBETV:;r<R
+K]=bEaKtaMSAA;B:::::::AJ<J::::::::::^=N:mWjw:;:;FigJdaWEB:;j;@j:HJ?dj:
+Dm;]a@F<HjA@ZEFZ<>mBVW]Z:>:jysyA:C:=J:vYxY;<:;:CV:nm<Jm@:=j>r:a?AB:s:;
+j<j>D:;B:E:?R:B:E:=b:yyyyI:E:WS:k:E:Qb:B:E:Sb:;e:;U:_:Gc;YJGvyyuy;B:[B
+:<JZyyyonyyyyA^;J=DJ:<j?<:G;Sj`@Pt\\Pd`QrP@[M>>:oi:;JB>Z::ED:]mtFFcmnv
+GWMJnC==nHE]:>::::::;C:?B:yay=J:>Z::::::J<JWB:;:?ja^G>D_mlVH[KR<:;B:::
+::::JFNZ;V:;J<jysy;Z::::::j<B:KW:B:FZ:vCJ:>:::::::::J?jysy:>:<::::::wq
+y[:::::::::::::vYxI:;Z::::::::J<jP@:E:cb:_nff:V\\<NL=R:sZ:Vy<>jx]:JBAj
+:<ZFaZ<B>cTTUUSaEBWTSiEB_tUUURWMf@usYqj@usYQJ<ntYQIDKmHQ<jPF:K:_c<;V:S
+l:>Z:>IO:G;Ojysy=J:>:s:qQBv:<J:^q<J:lv:DJ;Dlc`qsLqlp@wb>GM:N;=K?A:<jys
+yCFw_J<jPN:C:[Y:=j;B:;:::Ja@Na`>;B::::::::::::::::::::::::::::::::::::
+:::::::::::6:" }{TEXT -1 22 "  .\n\310\361\357\356\353\374\347\363\377
+ \352\360\350\362\345\360\350\351" }{OLE 1 4097 1 "[xm]Br=WfoRrB:::wk;
+nyyI;G:;:j::>:B>N:F:nyyyyy]::yyyyyy:::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::fyyyyya:nYf::G:jy;::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::JcvGYMt
+>^:fBWMtNHm=;:::::::n<Ejyyiy=?Z:NZHQ:>:;`:Z@[::JrhnQMKKHK`Aj;JZPZ:B:F:
+YLpfF>:::::::::J?NZ;vyyyyy=J:B:::::::c:;:=j[vGUMrvC?MoJ::::::::JCNZ;F:
+f:vYxY:B::::::F:;JmJ:j;vCj^nGGmq>:;::::::::_Z:vyyuy:>:<::::::AJ:n:>:nY
+N::wyyyq<:v:<J>j>J?>:Q:S:UJ:n;v;;JBB:]:_J:V<^<nYvY::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::::::::::::=Z<>Z:B:::;Gjm:;:::
+:::j:nyyYZDjysy?bm?:;JZC:bKi:UTTAeVYuVYeScEBETVeURcUTYeU;sFWCFl:Lnc<l
+\\@AJ:h:Pnr:tlS^xsNpkK:<::::::j;^:;J::::::::::^=N:GXjWL:>:>tgi<cfqe:;j
+;@j:HJ?dj:DJ<Yv;HjAr<]R:?B\\_;Ob:GVIDj<Ms;DJ;]\\LVj@s:Yb:hj:Dk;u@=b:?f
+D>:DRPNZRPZeQ\\=pB?bZMK:>::::vYxy;J<j:<J:vYxY;<J:>:^wCJIE:?t:F:MZ=Fn;J
+;^=>:E:Mb:>Z:f:NZ;Z:f:FZ<vyyyy:f:n_;>=f:V[<Z:f:^[<>f<R<_B:n^@v;oj\\FHe
+mj^HMmqnG;KaFFJufF>::::::;C:?B:yay=J:<J:<::::::C:OM:>:N:YLpJbNHEms>@[C
+:>Z::::::::kJ;@j;>:C:yayA:<::::::GZ:^j=B:<:=B:Y<>Z:>:::::::::J?<J:vYxI
+:;Z::::::JywYB:::::::::::::yay=J:B::::::::vYxY:>\\:B:;xyyqUyyyyYZ]:ib:
+<j?<:G;Sj`@Pt\\Pd`QrP@;MHB:qi:;fy>Z:JBA:lV<DZJ^dcgg_WhZnc_whZNdigg[oGk
+TfayW=UfayW;CJeyWyH=Gu:C:US:>;<JSdJJAJ^\\j:B:MSXK:_;kf;=J:^_s?;N@Nf>F:
+>_s_=;jw?^yM:<:[>lF::JqjsGF>>:>:Uk:^:>x;J>JS^XUb;=Z:N_s?;N@Fd;F:;Zs_=V
+Y;><:[n:Bm:::W=aqjJJfX:f?;J<JrG:K:_c<;W:cs;=J:<J]`Q>JSJvMj:J]^=VY;;<:[
+>;Bm:::W=aqjJJ:J:f?=J<Jr?:K:_K:DJ_Qj:B:WUXs:qQ:[:JB?:DZ<B>aTXDpql@qe>O
+R`Kev_Jf@E==;;:f?;J<JrG:KB:N`D>n;^g=F:<J\\`Q>JSJZDj:<J:fas_=<jw;<:[n:>
+Z<^Z<jcjqjFEK?XKnDYC:==;;:;jPF:C:[Q:>;N`DR:Gl:B:AUXO:Gc;N;yyyxy:J:^=<j
+w?<IJ:>:sg:>ZFIZ<NZ\\VdsWhngfgs:yH=Gu:;J?F>OV:B:J<MYC^:f?;J<JrG:AZ:>::
+::WTJWTL>Z:::::::::::::::::::::::::::::::::::::::::::4:" }{TEXT -1 80 
+"  , \357\360\356\342\345\360\350\362\374 \343\350\357\356\362\345\347
+\363 \356 \357\356\352\340\347\340\362\345\353\374\355\356\354 \342
+\350\344\345 \360\340\361\357\360\345\344\345\353\345\355\350\377 \357
+\360\350 \363\360\356\342\355\345 \347\355\340\367\350\354\356\361\362
+\350 " }{OLE 1 3585 1 "[xm]Br=WfoRrB:::wk;nyyI;G:;:j::>:B>N:F:nyyyyy]:
+:yyyyyy:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::fyyyyya:nYf::wyyyqy;::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::NDYmq^H;C:ELq^H_mvJ::::::::gj<vy
+yuyJ;B:?bm?:;JZC:bKB::>hEwoNN^M^s;V:>r=B:<:=ja^GE=;:::::::::N;?R:yyyyy
+y:>:<::::::JDJ:j:VBYmp>HYLkNG>::::::::N<?R:=:EJ:vYxY:B::::::F:;JmJ:j;v
+Cj^nGGmq>:;::::::::_Z:vyyuy:>:<::::::AJ:n:>:nYN::wAJ=j=>Z:>;F;N;;j?J@>
+:UJ:n;nYvY::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::=Z<>Z:B:::;cRo:;::::::j:nyyYZDjysy?bm?:;JZC:bKi:UTTAeVY
+uVYeScEBETVeURcUTYeU;sFWCFl:Lnc<l\\@AJ:h:Pnr:tlS^xsNpkK:<::::::j;J::::
+::::::JHJ;Fy\\a>>:>thGCkcXM<;j;@j:Hj:dj:DJ<Au;DJ=q]<>kjb:?FEDJ>K>Q=PKs
+yqyyyyW:^:F:;jysy?B:>:>\\@JTD:Ob:;j:F;Hj<@:?B:s:;j<j>D:;B:E:?R:B:E:=b:
+yyyyI:E:WS:k:E:Qb:B:E:Sb:DJ:QJC<J:n^@v;ojyyiyAZ:>\\:B:;xyyQ]yyyyYZP:GX
+:V[:B:G;Sj`@Pt\\Pd`QrP@[LHB:qi:;fyB:>l;fB]mtFFcmnvGWMJnC==nHE]:>::::::
+;C:?B:yay=J:>Z::::::J<JZB:J;vCS=[D:_E:Ems>@[;;B:::::::JFNZ;V:;J<jysy;Z
+::::::j<B:Sd:<J:<::::::::::::vYxI:;Z::::::::::::::::::::yay=J:B:::::::
+:ZFaZ<B>cTTUUSaEBWTSiEB_tUUURWMf@usYqj@usYQJ<ntYqHEKmpK<jP@:K:_c<;U:[x
+:?B:>`o>;N`DJrHj:<Z:^_o>;N@np<F:;JR^=;jw;<:[N:b:DJ:<kc`a\\wgfKyDK?tLnD
+YC>ekljJJ::Uk:^:>x;J>>:_c<>l;F:;B:uSGsZ:VYZ:JBG:DJ<DJ::Y=Wc>ObHKev_:FF
+>>:jP>:C:[q:>;N`DJH<j:B:=UGOZ:n>N;yayI:>:sZ:VY[j=J:^q<ZFIZ<NZ\\VdsWhng
+fgSAuf>GM:N[:F>OV:B:=B:^jnQ<C:Uk:^:>X;j;<J:<J::::nc;ocCC:;B:::::::::::
+:::::::::4:" }{TEXT -1 1 "." }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+12 "randomize():" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 10 "lambda:
+=3:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 53 "x3:=sort([stats[rand
+om,exponential[lambda,0]](100)]):" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 7 "N:=100:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 33 "
+vyb_srednee:= describe[mean](x3);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>
+%,vyb_sredneeG$\"+H8iOI!#5" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+12 "j:=1: n:=1: " }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 75 "for i f
+rom 2 to N do  if(x3[i-1]=x3[i]) then else n:=n+1: end if end do; n;" 
+}}{PARA 11 "" 1 "" {XPPMATH 20 "6#\"$+\"" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 109 "v:=[seq(0,k=1..n)]: chast:=[seq(0,k=1..n)]: p:=[seq(
+0,k=1..n)]: v[1]:=x3[1]: p:=[seq(0,k=1..n)]: chast[1]:=1:" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 137 "for i from 2 to 100 do  if(x3[i-1]
+=x3[i]) then v[j]:=x3[i]: chast[j]:= chast[j]+1: else j:=j+1: v[j]:=x3
+[i]: chast[j]:=1:  end if end do:" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 24 "lambda1:= 1/vyb_srednee;" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6#>%(lambda1G$\"+*oLJH$!\"*" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 106 "for k from 2 to n do p[k] := exp(-lambda1*v[k-1])-ex
+p(-lambda1*v[k])  end do: p[1] := -exp(-lambda1*v[1]);" }}{PARA 11 "" 
+1 "" {XPPMATH 20 "6#>&%\"pG6#\"\"\"$!+nWj5**!#5" }}}{EXCHG {PARA 0 "> \+
+" 0 "" {MPLTEXT 1 0 48 "for k from 1 to n do st_sv[k] := N*p[k]  end d
+o:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 56 "chi2:= evalf[4](sum('
+chast[k]^2/st_sv[k]', 'k'=1..n)-N);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6
+#>%%chi2G$\"%'3#!\"\"" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 8 "a:=
+0.05;" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%\"aG$\"\"&!\"#" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 43 "chi21:=statevalf[icdf,chisquare[n-2
+]](1-a);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%&chi21G$\"+Yt2@7!\"(" }}
+}}{SECT 0 {PARA 3 "" 0 "" {TEXT -1 11 "\307\340\344\340\355\350\345 3.
+4" }}{EXCHG {PARA 0 "" 0 "" {TEXT -1 120 "\321\343\345\355\345\360\350
+\360\356\342\340\362\374 100 \367\353\345\355\356\342 \361\353\363\367
+\340\351\355\356\351 \357\356\361\353\345\344\356\342\340\362\345\353
+\374\355\356\361\362\350, \360\340\361\357\360\345\344\345\353\345\355
+\355\373\365 \357\356 \360\340\342\355\356\354\345\360\355\356\354\363
+ \347\340\352\356\355\363 \361\356 \361\353\345\344\363\376\371\350
+\354\350 \357\340\360\340\354\345\362\360\340\354\350: " }{OLE 1 3585 
+1 "[xm]Br=WfoRrB:::wk;nyyI;G:;:j::>:B>N:F:nyyyyy]::yyyyyy:::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::fyyyyya:nYf:
+:wyyyqy;::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::NDYmq^H;C:ELq^H_mvJ::::::::gj<vyyuyJ;B:?bm?:;JZC:bKB
+::>hEwoNN^M^s;V:>Z>Z:j:vCSmlJ::::::::::OJ;@jyyyyyI:;Z:::::::^<>:F:Alqf
+G[maNFO=;::::::::_J;@j:j<>:yayA:<::::::=J:nF>:V:Y<FCWMmvG;J::::::::JCB
+:yyyxI:;Z::::::j;>:G:;:wA?:Jyk<:v:<J>j>J?>:Q:S:UJ:n;v;;Jyky;::::::::::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::j:b:;B:
+<::JjekGJ:::::::F:wyyAb<vYxY;tV;J:>R<:TnEj``pkDqqHqqTPt<l\\@qt@Pt`pqtP
+JHMQ<]FZ>WdZfbk;>ZEZ?GHZhV@cYH_WV>Z:::::::V:C:;:::::::::JHJ;>q;i?>:>hZ
+n<ssigZ:>:AR:=r:Ob<=b>AVRDJ=q]<>kkb:?FEDJFEjoEJFEZLVj\\c:G>H=<::::::::
+:jysyA:C:=J:vYxY;<:;:cv;^`<JOD:=j>r:eR:N:s:;j<j>DZ:>Z:f:NZ;Z:f:FZ<vyyy
+y:f:n_;>=f:V[<>:<j<J@DJ:DJjUJC>:Gc;YJGfB]mtFFcmnvGWMJnC==nHE=;:::::JJ<
+J;<jysy:>Z:B::::::^:FC;B:;:?ja^G>D_mlVH[KR<:;B:::::::JFNZ;V:;J<jysy;Z:
+:::::J=<:Se:<J:<:=B:Y<>Z:>:::::::::J?B:yay=J:B::::::nYyA<::::::::::::j
+ysy:>:<::::::::yayA:[B:;B:;xyyQ]yyyyYJK]AZ:V[:JMJ@fc[_hb_ds?h_Kb^=<jwE
+J:uI<:[V:>ZFaZ<B>cTTUUSaEBWTSiEB_tUUURWMf@usYqj@usYQJ<ntYQqDKmdN<jP@:K
+:_c<;U:wY;=Z:V`s?;N@>y<F:;JP`Q>JSJhF:F`s_=VYZ:JB[<b:;B>aTXDpql@yy=OrQK
+ev_Jf@E==;;:f?=J<JrA:K:_c<nu>F:<jX`Q>JSJg@j:>:uKHB:qAB:>L=ZF=c\\_;:W=a
+qjJJ::UK:^:>X=J><:_;Cx:=Z:Nfs?;N@NA=:=UXO:G;OjyyiyI:>:s:qQBv:;B:;JXE:l
+v:DJ;Dlc`qsLqlp`DogLnF;J?F>OV:B:=B:^jnQ<C:Uk:^:>X;j;<Z:>::::WTJWTLB:::
+:4:" }{TEXT -1 28 " .\n\315\340\351\362\350 \342\373\341\356\360\356
+\367\355\356\345 \361\360\345\344\355\345\345 " }{OLE 1 3585 1 "[xm]Br
+=WfoRrB:::wk;nyyI;G:;:j::>:B>N:F:nyyyyy]::yyyyyy::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::::::::::fyyyyya:nYf::wyyyqy;:
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::NDYmq^H;C:ELq^H_mvJ::::::::gj<vyyuyJ;B:?bm?:;JZC:bKB::>hEwoNN
+^M^s;V:>b=B:<:=ja^GE=;:::::::::N;?R:yyyyyy:>:<::::::JDJ:j:VBYmp>HYLkNG
+>::::::::N<?R:=:EJ:vYxY:B::::::F:;JmJ:j;vCj^nGGmq>:;::::::::_Z:vyyuy:>
+:<::::::AJ:n:>:nYN::wAE:j=B:K:M:OJ:V;^;nYvY:::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::::::::::F:DJ:<Z::::::::::j:ny
+yYZDjysy?bm?:;JZC:bKi:UTTAeVYuVYeScEBETVeURcUTYeU;sFWCFl:Lnc<l\\@AJ:h:
+Pnr:tlS^xsNpkK:<::::::j;^:;J::::::::::^=N:GXjeK:>:>oVi<sHbgJ:<J:VZ;FZ=
+N[DFZlVjrc;]Z=v;hjB@j;x:SR>=b:kF<QA;b<Ar=V;D:J:::::::::yayY:^:F:;B:yay
+QZ:J:JTD:=h:<Jm@:=j>r:a?AB:s:;j<j>D:;B:E:?R:B:E:=b:yyyyI:E:WS:k:E:Qb:B
+:E:Sb:;f:;b:_:Gc;YJGfB]mtFFcmnvGWMJnC==nHE=;:::::JJ<J;<jysy:>Z:>Z:::::
+:J<jbJ:J;vCS=[LsfFaMR>`:J:<:::::::>=?R:AJ:^:vYxY:B::::::n:>o;Z:j:<ja:;
+B:;:::::::::N[:B:yay=J:B::::::nYyA<::::::::::::jysy:>:<::::::::yayA:[B
+:<JZyyywpyyyyAr;jUDZ:V[:JMJ@fc[_hb_ds?h_KR>;Ny<>:[J:<:^:f_;j<B:cb:_S:m
+l<jCDJS@j:@JHB:qi:;fyB:>l;F:lV<DZJ^dcgg_WhZnc_whZNdigg[oGkTfayW=UfayW;
+CJeyW]R=GunC:Uk:<J>JSdJJDJ`F:<JvN;n>N;yyyxy:J:^=VY[j=>:;JXE:;Bm=b:?bBa
+TXaEWEUUF\\GnF;J?F>OV:B:yayajnQ\\:^:f??J<JrAj:<j;B:;:::Ja@Na`>;B::::::
+:::::::::::::::::::::::::::::::2:" }{TEXT -1 23 " \350 \342\373\341
+\356\360\356\367\355\363\376 \344\350\361\357\345\360\361\350\376" }
+{OLE 1 3585 1 "[xm]Br=WfoRrB:::wk;nyyI;G:;:j::>:B>N:F:nyyyyy]::yyyyyy:
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+fyyyyya:nYf::wyyyqy;::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::NDYmq^H;C:ELq^H_mvJ::::::::gj<vyyuyJ;B:?
+bm?:;JZC:bKB::>hEwoNN^M^s;V:>b=B:<:=ja^GE=;:::::::::N;?R:yyyyyy:>:<:::
+:::JDJ:j:VBYmp>HYLkNG>::::::::N<?R:=:EJ:vYxY:B::::::F:;JmJ:j;vCj^nGGmq
+>:;::::::::_Z:vyyuy:>:<::::::AJ:n:>:nYN::wAJ=j=>Z:>;F;N;;j?J@Jyky;::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:j:b:;B:<::JVPKDJ:::::::F:wyyAb<vYxY;tV;J:>R<:TnEj``pkDqqHqqTPt<l\\@qt
+@Pt`pqtPJHMQ<]FZ>WdZfbk;>ZEZ?GHZhV@cYH_WV>Z:::::::V:>::::::::::^=N:qGq
+s:;:sYcMLTIt^J:VZ;FZ=FZDFZLVjms:YZEF\\;NZBP@>:NjcB:<JGEjyyyyyy;J<>:=J:
+vYxY;<:;:OX:^`<JCA:=j>r:MP:<J;^=>:E:Mb:;J:<j<J;@:<j<j:Djyyi:f:n_;>=f:V
+[<Z:f:^[<b:;W:_:Gc;YJGvyyuy;B:[B:<JZyyywpyyyyAf;jUA:QB:n>^;UTRcETcTX[U
+S;JR^=<jwEJJxI;B:>l;fB]mtFFcmnvGWMJnC==nHE]:>::::::;C:?B:yay=J:B::::::
+^:>a:J:J;vCS=[D:_mlVH[KRJ:<:::::::>=?R:AJ:^:vYxY:B::::::f:<JdA:;B:::::
+:::::::jysy:>:<:::::::::::::::::::vYxI:;Z:::::::::lV<DZJ^dcgg_WhZnc_wh
+ZNdigg[oGkTfayW=UfayW;CJeyWac>GupCJ:f_;J>JSdJtGX=Z:RXs:qQ:uI<:[n:Bm:::
+W=aqjJJfX:f?=J<JrA:K:_c<;W:;l:<Z:VhsO;<JMJ?vYxy:>:;JHjw?<I:;JXEZ:>ZFIZ
+<NZ\\VdsWhngfgspac>GM:N;=K?A:<:^jnQ<C:UK:^:>X=j;B:;:::Ja@Na`><::::::::
+::::::::::::::::::::::::::::::::2:" }{TEXT -1 23 "  .\n\310\361\357
+\356\353\374\347\363\377 \352\360\350\362\345\360\350\351 " }{OLE 1 
+4097 1 "[xm]Br=WfoRrB:::wk;nyyI;G:;:j::>:B>N:F:nyyyyy]::yyyyyy::::::::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::fyyyyya
+:nYf::G:jy;:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::JcvGYMt>^:fBWMtNHm=;:::::::n<Ejyyiy=?Z:NZHQ:>:;`:Z
+@[::JjPsRMKKHK`Aj;JZPZ:B:F:YLpfF>:::::::::J?NZ;vyyyyy=J:B:::::::c:;:=j
+[vGUMrvC?MoJ::::::::JCNZ;F:f:vYxY:B::::::F:;JmJ:j;vCj^nGGmq>:;::::::::
+_Z:vyyuy:>:<::::::AJ:n:;J:JyK;:nyyyYE:j=B:K:M:OJ:V;^;f;;JAjA>:[Z:F<N<;
+jCJDJyky;:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::F:DJ:<Z:::>f?^;>:::::::=Jyyy;d:yayQZHQ:>:;`:Z@w<fccWflwgmwg`_
+hZfbkgh[_hcwgh?^mn_jB=BKaDBETV:;r<RK]=bEaKtaMSAA;B::j:>Z<Z:::>]?^;V:CJ
+:>::::::=Jy;ry?:>:;`:^=N:GXjWL:>:>tgi<cfqe:;j;@j:HJ?dj:DJ<Yv;HjAr<]R:?
+B\\_;Ob:GVIDj<Ms;DJ;]\\LVj@s:Yb:hj:Dk;u@=b:?fD>:DRPNZRPZeQ\\=pB?bZMK:V
+Z:>:;:::vYxy;J<j:<J:<jysy?B:;J:Jpa:wf:Nb=j:F;HjJA:?JHJ:f:F[<J:<j<J;@:<
+j<j:Djyyyy=j<JQ@JFj<j?D:<j<J@DJjDZCN\\:JMTjAN=ElrfH=MtFGYMq>>Wlj:gmlJ:
+:::::>^:NZ:vYxI:;B:;B::::::^:NG;J:J;vCS=[LsfFaMR>@>Z::::::::kB:?R:AJ:^
+:vYxY:B::::::n:;B:Cv:<Z:j:<ja:;B:;:::::::::N[:jysy:>:<::::::wqy[::::::
+:::::::vYxI:;Z::::::::jysy;JB<Z:>ryyYiwyyyy;H<v\\<B:QB:n>^;UTRcETcTX[U
+S>FsZ:Vy<>jxM:<:[V:BmCb:<Kd`ppPps<LaPpu<Lcxpp@Pq>ekXxqGfkXxq?^:gxqOcLn
+fDa:f_;J>B:_c<;W:KD<=Z:F_s?;N@>m@F:;JP`Q>JSJkLj:JN`QHjw?^yM:<:[>lF::Jq
+jsGF>>:jPF:C:[Y:>;N@cq@Tj:B:OSXK:_;]T:=J:RXs:qQ:[:JBG:lF::JqjsGF>>eA:U
+K:^:>X=J>JSdJJ_`AF:;B:GTXK:_;kI;=:GLHjw?>B:>L>ZF=::nGVX==;;:f?=J<Jr?:K
+:_K:DJ_Qj:B:WUXs:qQ:[:JB?:DZ<B>aTXDpql@Yg>ORDKev_Jf@E==;;:f?;J<JrG:KB:
+N`D>NSu:=Z:^bs?;N@>b<FZ:>:uSXsZ:VYZ:JBG:;b:Cb:VDvG>pLN[I>glQ<jjJJ::Uk:
+^:>X;J>JSd:Gl:B:AUXO:G;OjyyiyI:>:sZ:VY[j=J:^q<J:lv:DJ;Dlc`qsLqlp`DQcLn
+F;B:OjJNk;Z::CFw_J<jP>:C:[q:V:<J::::nc;ocCK:<:::::::::::::::::::::::::
+:::::::::::::::::6:" }{TEXT -1 76 " , \357\360\356\342\345\360\350\362
+\374 \343\350\357\356\362\345\347\363 \356 \360\340\342\355\356\354
+\345\360\355\356\354 \342\350\344\345 \360\340\361\357\360\345\344\345
+\353\345\355\350\377 \357\360\350 \363\360\356\342\355\345 \347\355
+\340\367\350\354\356\361\362\350" }{OLE 1 3585 1 "[xm]Br=WfoRrB:::wk;n
+yyI;G:;:j::>:B>N:F:nyyyyy]::yyyyyy::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::fyyyyya:nYf::wyyyqy;:::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::NDYmq
+^H;C:ELq^H_mvJ::::::::gj<vyyuyJ;B:?bm?:;JZC:bKB::>fOHpNN^M^s;V:>r=B:<:
+=ja^GE=;:::::::::N;?R:yyyyyy:>:<::::::JDJ:j:VBYmp>HYLkNG>::::::::N<?R:
+=:EJ:vYxY:B::::::F:;JmJ:j;vCj^nGGmq>:;::::::::_Z:vyyuy:>:<::::::AJ:n:;
+J:JyK;:nY:G:IZ:>;F;N;;j?J@>:UJ:n;nYvY:::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::=Z<>Z:B:::kI^OB;B:::::::=Jyy
+y;d:yayQZHQ:>:;`:Z@w<fccWflwgmwg`_hZfbkgh[_hcwgh?^mn_jB=BKaDBETV:;r<RK
+]=bEaKtaMSAA;B:::::::A:;::::::::::s:?jvEXLJ:JRxq^>\\@IC>:AR:=r:=b<=b:C
+VfAb:GVIDJ>=]<Njfb:K>KVGR?_yYyyyyq;J<j:>:yayQZ:J:JBT:cc:N[<>:=j>r:ER:N
+Z:^=>:E:Mb:>Z:f:NZ;Z:f:FZ<vyyyy:f:n_;>=f:V[<Z:f:^[<b:;V;_J:n^@v;ojyyiy
+AZ:>\\:B:;xyyQ]yyyyYZP:GX:V[:B:G;Sj`@Pt\\Pd`QrP@[LHB:qi:;fyB:>l;fB]mtF
+FcmnvGWMJnC==nHE]:>::::::;C:?B:yay=J:>Z::::::J<JZB:J;vCS=[D:_E:Ems>@[C
+:>Z::::::::kJ;@j;>:C:yayA:<::::::EZ:^c<B:;B::::::::::::jysy:>:<:::::::
+::::::::::::vYxI:;Z:::::::::lV<DZJ^dcgg_WhZnc_whZNdigg[oGkTfayW=UfayW;
+CJeyWcg>GUAC:US:>;N`D>f;>t=NZ:JRPM>JSd:[u:=B:<JPPM>JSJUEj:>:[KH>:qAB:>
+L;Z<b:;B>aTXDpql@uf>ObJKev_Jf@E==;;:f?=J<JrA:KJ:N`DJBAj:>Z:fao^=<jw;<:
+[n:b:Cb:;:vG>hLN[OAglQ<jjJJ::UK:^:>X=J>JSd:sB:=Z:FfoN;<JMJ?vYxy:J:^=<j
+w?<IJ:>:sg:Bm=b:?bBaTXaEWEUUpKTEKm>:OB:=K?A:<j:<:CFw_J<jPF:C:[Q:VZ:>Z:
+>::::WTJWTL>Z:VhZnC:W=aqjJJJqDKmdN<jP>:C:[q:>;N@@J\\Ij:B:?UXK:_;ok:<:=
+UXO:G;vYxy:J:^=VYv:>:s?l6F" }{TEXT -1 4 "  .\n" }}}{EXCHG {PARA 0 "> \+
+" 0 "" {MPLTEXT 1 0 45 "c:=[stats[random,discreteuniform[1,3]](100)]:
+" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 31 "N:=100:\nneX:=describe[
+mean](c);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%$neXG#\"$,#\"$+\"" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 43 "S_v_qvadr := N/(N-1)*describ
+e[variance](c);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%*S_v_qvadrG#\"%*p
+&\"%+**" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 59 "az:= neX - sqrt(
+3*S_v_qvadr): bz:= neX + sqrt(3*S_v_qvadr):" }}}{EXCHG {PARA 0 "> " 0 
+"" {MPLTEXT 1 0 13 "c := sort(c):" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 28 "j:=1: count:=1:n:=1: p:=0.1:" }}}{EXCHG {PARA 0 "> " 
+0 "" {MPLTEXT 1 0 72 "for i from 2 to N do  if(c[i-1]=c[i]) then else \+
+n:=n+1: end if end do;n;" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#\"\"$" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 115 "var:=[seq(0,k=1..n)]:chasto
+ta:=[seq(0,k=1..n)]:p:=[seq(0,k=1..n)]:var[1]:=a[1]: p:=[seq(0,k=1..n)
+]: chastota[1]:=1:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 159 "for \+
+i from 2 to 100 do  if(c[i-1]=c[i]) then var[j]:=c[i]: chastota[j]:= c
+hastota[j]+1: else j:=j+1: var[j]:=c[i]:chastota[j]:= 1:  end if end d
+o;var;chastota;" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#7%\"\"\"\"\"#\"\"$
+" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#7%\"#G\"#V\"#H" }}}{EXCHG {PARA 0 
+"> " 0 "" {MPLTEXT 1 0 39 "n_s_volnoy[1] := N*(var[1]-az)/(bz-az):" }}
+}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 76 "for k from 2 to n-1 do n_s_
+volnoy[k] := N*(var[k]-var[k-1])/(bz-az): end do:" }}}{EXCHG {PARA 0 "
+> " 0 "" {MPLTEXT 1 0 41 "n_s_volnoy[n] := N*(bz-var[n-1])/(bz-az):" }
+}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 62 "chi2 := evalf(sum('chastot
+a[k]^2/n_s_volnoy[k]', 'k'=1..n)-N);" }}{PARA 11 "" 1 "" {XPPMATH 20 "
+6#>%%chi2G$\"*YLSI$!\"(" }}}}{SECT 0 {PARA 3 "" 0 "" {TEXT -1 11 "\307
+\340\344\340\355\350\345 3.5" }}{EXCHG {PARA 0 "" 0 "" {TEXT -1 128 "
+\321\364\356\360\354\350\360\356\342\340\362\374 \344\342\340 \354\340
+\361\361\350\342\340 \"data1\" \350 \"data2\", \361\356\361\362\356
+\377\371\350\345 \350\347 31-\343\356 \375\353\345\354\345\355\362\340
+. \"data1\" \361\356\344\345\360\346\350\362 \340\341\361\366\350\361
+\361\373 \362\356\367\345\352, \352\356\362\356\360\373\345 \344\345
+\353\377\362 \356\362\360\345\347\356\352 " }{OLE 1 3585 1 "[xm]Br=Wfo
+RrB:::wk;nyyI;G:;:j::>:B>N:F:nyyyyy]::yyyyyy::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::::::fyyyyya:nYf::wyyyqy;:::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::::NDYmq^H;C:ELq^H_mvJ::::::::gj<vyyuyJ;B:?bm?:;JZC:bKB::>fOHpNN^M^s
+;V:>r=B:<:=ja^GE=;:::::::::N;?R:yyyyyy:>:<::::::JDJ:j:VBYmp>HYLkNG>:::
+:::::N<?R:=:EJ:vYxY:B::::::F:;JmJ:j;vCj^nGGmq>:;::::::::_Z:vyyuy:>:<::
+::::AJ:n:;J:JyK;:nYf::IZ:>;F;N;;j?J@>:UJ:n;nYvY:::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::=Z<>Z:B:::[RMQB;B:
+::::::=Jyyy;d:yayQZHQ:>:;`:Z@w<fccWflwgmwg`_hZfbkgh[_hcwgh?^mn_jB=BKaD
+BETV:;r<RK]=bEaKtaMSAA;B:::::::A:;::::::::::s:?jWmWNJ:Jf@r^>j=HC>:AR:=
+r:=b<=b:?vPDJ=EKKDJ>I]<Njfb:kf:Qi:KvFRQB:::::::::::vYxy;J<j:>:yayQZ:J:
+JnL:cc:Nt;j:F;HjnC:?JHJ:f:F[<J:<j<J;@:<j<j:Djyyyy=j<JQ@JFj<j?DJ:B:E:Sb
+:DZ>N<n^@v;oj\\FHemj^HMmqnG;KaFFJufF>::::::;C:?B:yay=J:<Z::::::J<B:CD:
+>:N:YLpJbNHEms>@[;;B:::::::JFNZ;V:;J<jysy;Z::::::J=B:cb:>Z::::::::::::
+:yay=J:B:::::::::::::::::::jysy:>:<::::::::yayA:[B:<JZyyyoryyyyAr=J]AZ
+:V[:JMJ@fc[_hb_ds?h_C:[LHB:qi:;fyB:>l;J:lV<DZJ^dcgg_WhZnc_whZNdigg[oGk
+TfayW=UfayW;CJeyW]c>GeNC:US:>;N`D>f;ne=F:<jh`Q>>:_;Og:=J:V`s?;N@n^<F:^
+_s?;N@>i;F:V@JSJH<j:jg`QHjw;<:[>DZ<B>aTXDpql@og>OR<Kev_Jf@E==;;:f?=J<J
+rA:K:_c<nN=B:<jP`Q?B:G;OjyyiyI:>:sZ:VY[B:I:;JXEZ:Bm=b:?bBaTXaEWEUUDoRD
+Km>:OjJNk;Z::CFw_J<<:US:;J<JrG:AZ:>::::WTJWTL;Z::::j;<:;::^hoX[>^]Bicq
+G:;B:;:J^Iu?LJJixA>wHH[>B:<::[[:vYxI>jyoyH_qZawCQtqPs:P:;B:2:" }{TEXT 
+-1 158 "  \355\340 \360\340\342\355\373\345 \367\340\361\362\350, \340
+ \"data2\" - \356\360\344\350\355\340\362\373 \362\356\367\345\352, \+
+\352\356\362\356\360\373\345 \355\340\365\356\344\377\362\361\377 \357
+\356 \361\353\345\344\363\376\371\345\354\363 \340\353\343\356\360\350
+\362\354\363:\na) \343\345\355\345\360\350\360\363\345\362\361\377 \+
+\361\353\363\367\340\351\355\340\377 \357\356\361\353\345\344\356\342
+\340\362\345\353\374\355\356\361\362\374, \350\354\345\376\371\340\377
+ \360\340\361\357\360\345\344\345\353\345\355\350\345 " }{OLE 1 3585 
+1 "[xm]Br=WfoRrB:::wk;nyyI;G:;:j::>:B>N:F:nyyyyy]::yyyyyy:::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::fyyyyya:nYf:
+:wyyyqy;::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::NDYmq^H;C:ELq^H_mvJ::::::::gj<vyyuyJ;B:?bm?:;JZC:bKB
+::>fOHpNN^M^s;V:>r=B:<:=ja^GE=;:::::::::N;?R:yyyyyy:>:<::::::JDJ:j:VBY
+mp>HYLkNG>::::::::N<?R:=:EJ:vYxY:B::::::F:;JmJ:j;vCj^nGGmq>:;::::::::_
+Z:vyyuy:>:<::::::AJ:n:;J:JyK;:nYf::IZ:>;F;N;;j?J@>:UJ:n;nYvY::::::::::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::=Z<>Z
+:B:::kU:S:;::jtgi;J:<JvXy@>yM?<<:j:nyyYZDjysy?bm?:;JZC:bKi:UTTAeVYuVYe
+ScEBETVeURcUTYeU;sFWCFl:Lnc<l\\@AJ:h:Pnr:tlS^xsNpkK:<::::::j;^:>::::::
+::::s:?J]AvLJ:JVPwD^dIq<<J:VZ;FZ=N[DFZLVjHc:?FDDJ>=]<Njfb:kf:Qi:KVFDJ;
+a\\:r=<J@@k:DJF]joC:;::::::::jysyA:C:=J:vYxY;<:;:gI;^`<JcAJ:F:MZ=FW<J;
+<JHJ:f:F[<J:<j<J;@:<j<j:Djyyyy=j<JQ@JFj<j?DJ:B:E:Sb:DJ:MJCJMTjAN=ElrfH
+=MtFGYMq>>Wlj:gml>:;:::::JJ<J;<jysy:>Z:>Z::::::J<B:=<;:?ja^G>D_mlVH[KR
+<:;B:::::::JFNZ;V:;J<jysy;Z::::::J=JDD:;B:FZ:vCJ:<J::::::::::OJ:<jysy:
+>:<::::::wqy[:::::::::::::vYxI:;Z::::::::jysy;JB<Z:>ryyYGxyyyy;D;nr;B:
+QB:n>^;UTRcETcTX[US>DsZ:Vy<>jx]:JBA:;BmCb:<Kd`ppPps<LaPpu<Lcxpp@Pq>ekX
+xqGfkXxq?^:gxq?oLnf>_:<jP@:K:_c<;U:ww:=Z:F_s?;N@^]=F:F`s?;N@np<F:;JP`Q
+>JSJxAj:JR`Q>JSJv@j:JN`QHjw;<:[n:BmJd::nGVX==;;:f?=B:C:[Y:>;N@^C=Z:ncs
+O;n>N;yyyxy:J:^=VY[j=J:^q<B:lv:DJ;Dlc`qsLqlp`>?oLnF;J?F>OV:B:J<MYC^:<j
+P>:C:[q:V:;B:;:::Ja@Na`><::::::::::::::::::6:" }{TEXT -1 166 " , \350
+\347 31-\343\356 \367\350\361\353\340;\nb) \375\362\350 \375\353\345
+\354\345\355\362\373 \363\357\356\360\377\344\356\367\350\342\340\376
+\362\361\377 \342 \357\356\360\377\344\352\345 \342\356\347\360\340
+\361\362\340\355\350\377 \361 \357\356\354\356\371\374\376 \352\356
+\354\340\355\344\373 \"sort\";\nc) \357\356\353\363\367\345\355\355
+\373\345 \375\353\345\354\345\355\362\373  w  \357\356\344\342\345\360
+\343\340\376\362\361\377 \361\353\345\344\363\376\371\345\354\363 \357
+\360\345\356\341\360\340\347\356\342\340\355\350\376: " }{OLE 1 4097 
+1 "[xm]Br=WfoRrB:::wk;nyyI;G:;:j::>:B>N:F:nyyyyy]::yyyyyy:::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::fyyyyya:nYf:
+:G:jy;::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::JcvGYMt>^:fBWMtNHm=;:::::::n<Ejyyiy=?Z:NZHQ:>:;`:Z@[::J
+jPsRMKKHK`Aj;JZM:<:=ja^GE=;:::::::::N;?R:yyyyyy:>:<::::::JDJ:j:VBYmp>H
+YLkNG>::::::::N<?R:=:EJ:vYxY:B::::::F:;JmJ:j;vCj^nGGmq>:;::::::::_Z:vy
+yuy:>:<::::::AJ:n:;J:JyK;:nyyyYE:j=B:K:M:OJ:V;^;;j@>:W:YJ:><<jBJC>:wAy
+A:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::=Z<>Z:B:::Kikg:;::::::j:nyyYZDjysy?bm?:;JZC:bKi:UTTAeVYuVYeScEBETVe
+URcUTYeU;sFWCFl:Lnc<l\\@AJ:h:Pnr:tlS^xsNpkK:<::::::j;^:>::::::::::s:?J
+VAV\\J:J^@xD^wkp<<J:VZ;FZ=N[DFZ<^jOYZ=v[;r<=b:kF<QqBN[<Njtb>AvWDJ=EsJD
+J>A]<>kob:Gf>?c>AvWHjAr<]R:?B\\_;;::::::yayY:^:F:;jysy?B:>:vqDjZE:Oh:F
+:MZ=ff;J;^=>:E:Mb:>Z:f:NZ;J:<j<j:Djyyyy=j<JQ@JFj<j?D:<j<J@DJ:EJZaJC<:G
+c;YJGfB]mtFf:^HMmqnG;KaFFJufF>::::::;C:?B:yay=J:<J:<::::::C:;]::?ja^G>
+D_mlVH[KR<:;B:::::::JFNZ;V:;J<jysy;Z::::::J=J@H:<:=B:Y<>Z:>:::::::::J?
+B:yay=J:B::::::nYyA<::::::::::::jysy:>:<::::::::yayA:[B:<JZyyywpyyyyAj
+CjUDZ:V[:JMJ@fc[_hb_ds?h_Kr^=<jwEJJxI;B:>l;ZFaZ<B>cTTUUSaEBWTSiEB_tUUU
+RWMf@usYqj@usYQJ<ntYQf=KmlX<jP@:K:_c<cqG`j:B:<JHjw?jx]:JB[F=::nGVX==;k
+t;jPF:C:[Y:>;N`D>n;>b?N:<jRPM>JSJLAj:>Z:Nao^=;jw;<:[n:Bm:::W=aqjJJ::UK
+:^:>X=J>JSJB\\j:B:iUGK:_;_d:=J:vHs:qAB:>L;Z<b:<kc`a\\wgfKsxJ?HQnDYC>ek
+ljJJ::Uk:^:>X;J>JSd:gi;=J:<jPPM>JSJHIj:JQQMHB:qAB:>L=J:DJ<D:jqjyyJ?`Wn
+DYC:==;;:f_;>:C:[q:>;N`DJHF:<JoPM?>:G;OjyyiyI:;J:^=<jw?<IZ:>:sg:Bm=b:?
+bBaTXaEWEUUlXf=Km>:OjJNk;Z:F:^jnQ<C:Uk:^:>X;j;<Z:>::::WTJWTL>Z::::::::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::4:" }{TEXT -1 
+306 "  .\n\304\353\377 \361\364\356\360\354\350\360\356\342\340\355
+\355\373\365 \354\340\361\361\350\342\356\342 \"data1\" \350 \"data2\"
+:\na) \357\360\356\342\345\361\362\350 \361\343\353\340\346\350\342
+\340\355\350\345 \362\356\367\345\352 \361 \355\340\351\344\345\355
+\355\373\354\350 \340\341\361\366\350\361\361\340\354\350 \350 \356
+\360\344\350\355\340\362\340\354\350 \361 \357\356\354\356\371\374\376
+ \352\342\340\344\360\340\362\350\367\355\356\351 \364\363\355\352\366
+\350\350;\nb) \350\347\356\341\360\340\347\350\362\374 \355\340 \356
+\344\355\356\354 \343\360\340\364\350\352\345 \361\343\345\355\345\360
+\350\360\356\342\340\355\355\373\345 \362\356\367\352\350 \350 \361
+\343\353\340\346\350\342\340\376\371\363\376 \364\363\355\352\366\350
+\376;\nc) \361 \357\356\354\356\371\374\376 \352\356\354\340\355\344
+\373 Maple \355\340\351\362\350 \354\340\352\361\350\354\340\353\374
+\355\363\376 \340\341\361\356\353\376\362\355\363\376 \356\370\350\341
+\352\363 \361\343\353\340\346\350\342\340\355\350\377 \355\340 " }
+{OLE 1 3585 1 "[xm]Br=WfoRrB:::wk;nyyI;G:;:j::>:B>N:F:nyyyyy]::yyyyyy:
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+fyyyyya:nYf::wyyyqy;::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::NDYmq^H;C:ELq^H_mvJ::::::::gj<vyyuyJ;B:?
+bm?:;JZC:bKB::>fOHpNN^M^s;V:>r=B:<:=ja^GE=;:::::::::N;?R:yyyyyy:>:<:::
+:::JDJ:j:VBYmp>HYLkNG>::::::::N<?R:=:EJ:vYxY:B::::::F:;JmJ:j;vCj^nGGmq
+>:;::::::::_Z:vyyuy:>:<::::::AJ:n:;J:JyK;:nYf::IZ:>;F;N;;j?J@>:UJ:n;nY
+vY::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::=Z<>Z:B:::kXFijyyiy=:::::F:wyyAb<vYxY;tV;J:>R<:TnEj``pkDqqHqqTP
+t<l\\@qt@Pt`pqtPJHMQ<]FZ>WdZfbk;>ZEZ?GHZhV@cYH_WV>Z::jysy:::J:V:Zy=:::
+:::::^=N:qGqK;;:kTZML:Ir^J:VZ;FZ=FZDFZ<NjUc:Gf>?c:KvFDJ;m\\<>m<Vw<>kmZ
+W[:jysy::::::::::A:C:=:yayQZ:J:JnL:cc:Nt;j:F;HjnC:?JHJ:f:F[<J:<j<J;@:<
+j<j:Djyyyy=j<JQ@JFj<j?DJ:B:E:Sb:DZ>N<n^@v;oj\\FHemj^HMmqnG;KaFFJufF>::
+::::;C:?B:yay=J:<J:<::::::CZ:^b:J:J;vCS=[LsfFaMR>@>Z::::::::kJ;@j;>:C:
+yayA:<::::::GZ:^\\<J:<::::::::::::vYxI:;Z::::::::::::::::::::yay=J:B::
+::::::vYxY:>\\:B:;xyyQ]yyyyYZI:GX:<j?<:G;Sj`@Pt\\Pd`QrP`:>DsZ:Vy<>jx]:
+JBA:;BmCb:<Kd`ppPps<LaPpu<Lcxpp@Pq>ekXxqGfkXxq?^:gxqOnLnfX`:f_;J>JSdJj
+@JiHj:B:uTXKJ:N@No<F:;jS`Q>JSJMDj:JP`Q>JSJv@j:jS:_;sB:=:qTXs:qAB:>Lb:D
+ZJVdscRYEU^`LN[qAglQ<kTfFF>>:jPF:C:[Y:>;N`DJMGZ:B:USXOZ:n>N;yyyxy:>:;J
+HB:qQB<j=J:^q<B:lv:DJ;Dlc`qsLqlp`XPnLnF;J?F>OV:B:J<MYC<J<<:US:;J<JrG:A
+Z:>::::WTJWTL;Z:::::::::::::::::::4:" }{TEXT -1 2 " ." }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 24 "h := evalf((3-(-3))/31):" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 35 "data1 := [seq( (-3)+i*h, i=1
+..31)]:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 40 "data2:=[stats[ra
+ndom,normald[0,1]](31)]:" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 21 
+"data2 := sort(data2):" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 64 "f
+or i from 1 to 31 do data2[i] := 15 - data2[i]^2  end do:data2:" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 70 "zgl:= fit[leastsquare[[x,y],
+ y=a*x^2+b*x+c, \{a,b,c\}]]([data1, data2]):" }}}{EXCHG {PARA 0 "> " 
+0 "" {MPLTEXT 1 0 49 "y :=-0.4783405800*x^2+0.3141460333*x+15.34251855
+;" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%\"yG,(*&$\"++eS$y%!#5\"\"\")%\"
+xG\"\"#F*!\"\"*&$\"+L.YTJF)F*F,F*F*$\"+b=DM:!\")F*" }}}{EXCHG {PARA 0 
+"> " 0 "" {MPLTEXT 1 0 79 "for k from 1 to 31 do \nY[k]:=-0.4783*data1
+[k]^2+0.314*data1[k]+15.3425: end do:" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 35 "Err:= Y[1]-data2[1]: TempErr:= Err:" }}}{EXCHG {PARA 
+0 "> " 0 "" {MPLTEXT 1 0 119 "for k from 2 to 31 do \nErr:= Y[k]-data2
+[k]:\nif(Err<=TempErr) then else \nTempErr:= Err: \nend if end do: Max
+Err:=TempErr;" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%'MaxErrG$\"*,n(3:!
+\")" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 90 "plot(\{[seq([data1[k
+],data2[k]],k=1..31)],y\},x=-3..3, color=[red,blue],style=[line,point]
+);" }}{PARA 13 "" 1 "" {GLPLOT2D 605 605 605 {PLOTDATA 2 "6&-%'CURVESG
+6%7S7$$!\"$\"\"!$\"3'****4I_,&45!#;7$$!3!******\\2<#pG!#<$\"3m*[9G7F.0
+\"F-7$$!3#)***\\7bBav#F1$\"3w'49*yz^%3\"F-7$$!36++]K3XFEF1$\"3\"f$oY6#
+*[@6F-7$$!3%)****\\F)H')\\#F1$\"3e-CNUJ7d6F-7$$!3#****\\i3@/P#F1$\"3+)
+pcOT65>\"F-7$$!3;++Dr^b^AF1$\"3qp@U_`-@7F-7$$!3$****\\7Sw%G@F1$\"3m#G)
+zK'y1D\"F-7$$!3*****\\7;)=,?F1$\"3-</!\\o@)z7F-7$$!3/++DO\"3V(=F1$\"3[
+r&o-oGtI\"F-7$$!3#******\\V'zV<F1$\"3r:H8Mh,M8F-7$$!3******\\d;%)G;F1$
+\"31^^O)pshN\"F-7$$!3!******\\!)H%*\\\"F1$\"3')G\\iSIgz8F-7$$!3/+++vl[
+p8F1$\"3@tCi8v^,9F-7$$!3\"******\\>iUC\"F1$\"31y6^<x5@9F-7$$!3-++DhkaI
+6F1$\"3%om^#)y(fP9F-7$$!3s******\\XF`**!#=$\"3ak#\\!\\ffb9F-7$$!3u****
+***>#z2))Fgp$\"37+\\p+UZp9F-7$$!3S++]7RKvuFgp$\"3+L;<E&QS[\"F-7$$!3s,+
+++P'eH'Fgp$\"3EM\"yHB8b\\\"F-7$$!3q)***\\7*3=+&Fgp$\"3>#Q!)=qrl]\"F-7$
+$!3[)***\\PFcpPFgp$\"3j[eL$*Gh::F-7$$!3;)****\\7VQ[#Fgp$\"3+!)4I\\y\\B
+:F-7$$!32)***\\i6:.8Fgp$\"3]I*HztX$H:F-7$$!3Wb+++v`hH!#?$\"3K4e$**ReT`
+\"F-7$$\"3]****\\(QIKH\"Fgp$\"3:'HJ()[9v`\"F-7$$\"38****\\7:xWCFgp$\"3
+zB3@5I2R:F-7$$\"3E,++vuY)o$Fgp$\"3I^f,08LR:F-7$$\"3!z******4FL(\\Fgp$
+\"3/0**H(4W!Q:F-7$$\"3A)****\\d6.B'Fgp$\"3Vbc]*[c_`\"F-7$$\"3s****\\(o
+3lW(Fgp$\"3e+@LY07J:F-7$$\"35*****\\A))oz)Fgp$\"3Jy*e'G/([_\"F-7$$\"3e
+******Hk-,5F1$\"3a45?)Rmx^\"F-7$$\"36+++D-eI6F1$\"3$z?IV`E'3:F-7$$\"3u
+***\\(=_(zC\"F1$\"3G<**[Bx&*)\\\"F-7$$\"3M+++b*=jP\"F1$\"3'*o!R(>&yo[
+\"F-7$$\"3g***\\(3/3(\\\"F1$\"3WEukrR2u9F-7$$\"33++vB4JB;F1$\"3=B=$G;)
+>f9F-7$$\"3u*****\\KCnu\"F1$\"3cZy!=g!=V9F-7$$\"3s***\\(=n#f(=F1$\"3qN
+]\"[Y][U\"F-7$$\"3P+++!)RO+?F1$\"3ur%[]h'o09F-7$$\"30++]_!>w7#F1$\"3#3
+n'oFnb%Q\"F-7$$\"3O++v)Q?QD#F1$\"3iP@dg<2i8F-7$$\"3G+++5jypBF1$\"3)ev3
++3n+M\"F-7$$\"3<++]Ujp-DF1$\"3pQ7ds\\E88F-7$$\"3++++gEd@EF1$\"3CZ[@16'
+yG\"F-7$$\"39++v3'>$[FF1$\"3ESqE;hGf7F-7$$\"37++D6EjpGF1$\"3l(o'RRn\\I
+7F-7$$\"\"$F*$\"3')****)H9*)z>\"F--%'COLOURG6&%$RGBG$\"*++++\"!\")$F*F
+*Fb[l-%&STYLEG6#%%LINEG-F$6%7A7$$!37+++8;X1GF1$\"3)******zF]N+\"F-7$$!
+3!)*****fA.Hh#F1$\"3/+++!yMC<\"F-7$$!3#*******Q[N>CF1$\"31+++ecj!>\"F-
+7$$!30+++_k!eA#F1$\"3)******fV6&y7F-7$$!34+++k!eA.#F1$\"3#******p6Z)H8
+F-7$$!3)******pn4(Q=F1$\"3.+++sLKW8F-7$$!3!********Gh^k\"F1$\"3%******
+***QNX8F-7$$!3++++.Hh^9F1$\"3++++:Gur8F-7$$!3#******f^k!e7F1$\"3-+++]Z
+x'Q\"F-7$$!3/+++Hh^k5F1$\"3-+++;e$GW\"F-7$$!3X+++?un4()Fgp$\"3'******p
+@qKZ\"F-7$$!3c+++]N>unFgp$\"3/+++_x*[Z\"F-7$$!37+++!o4(Q[Fgp$\"3#*****
+**3e$fZ\"F-7$$!3o******4eA.HFgp$\"3++++(=,,[\"F-7$$!3S*******R>un*!#>$
+\"3%******R1%)))\\\"F-7$$\"3S*******R>un*Fc`l$\"3++++/`\")*\\\"F-7$$\"
+3o******4eA.HFgp$\"3)******\\d6q\\\"F-7$$\"37+++!o4(Q[Fgp$\"3#******47
+6J\\\"F-7$$\"3c+++]N>unFgp$\"3-+++A$Q>\\\"F-7$$\"3X+++?un4()Fgp$\"33++
++*p#o!\\\"F-7$$\"3/+++Hh^k5F1$\"3'******H#R2*[\"F-7$$\"3#******f^k!e7F
+1$\"3/+++)oWy[\"F-7$$\"3++++.Hh^9F1$\"3++++xd*\\Z\"F-7$$\"3!********Gh
+^k\"F1$\"32+++#)yRK9F-7$$\"32+++y'4(Q=F1$\"3$******H'*=WU\"F-7$$\"3<++
++l!eA.#F1$\"3)******pi!yv8F-7$$\"30+++_k!eA#F1$\"3%******RGN+O\"F-7$$
+\"3#*******Q[N>CF1$\"34+++=hRM8F-7$$\"3!)*****fA.Hh#F1$\"3)******4BZSJ
+\"F-7$$\"37+++8;X1GF1$\"3)******f93=>\"F-7$Fgz$\"3%*******)H.r/\"F--F
+\\[l6&F^[lFb[lFb[lF_[l-Fd[l6#%&POINTG-%+AXESLABELSG6$Q\"x6\"Q!F]fl-%%V
+IEWG6$;F(Fgz%(DEFAULTG" 1 2 0 1 10 0 2 9 1 4 2 1.000000 45.000000 
+45.000000 0 0 "Curve 1" "Curve 2" }}}}{SECT 0 {PARA 3 "" 0 "" {TEXT 
+-1 11 "\307\340\344\340\355\350\345 3.6" }}{EXCHG {PARA 0 "" 0 "" 
+{TEXT -1 88 "\310\361\357\356\353\374\347\363\377 \363\352\340\347\340
+\355\350\377 \350 \356\352\355\356 \"help\", \361\340\354\356\361\362
+\356\377\362\345\353\374\355\356 \357\356\361\362\360\356\350\362\374 \+
+\357\360\350\354\345\360 \354\350\355\350\354\350\347\340\366\350\350 \+
+\342\373\360\340\346\345\355\350\377 " }{OLE 1 4609 1 "[xm]Br=WfoRrB::
+:wk;nyyI;G:;:j::>:B>N:F:nyyyyy]::yyyyyy:::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::fyyyyya:nYf::G:I:wAyA:::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+NDYmq^H;C:ELq^H_mvJ::::::::gj<vyyuyJ;B:?bm?:;JZC:bKB::>fOHpNN^M^s;V:>j
+AZ:j:vCSmlJ::::::::::OJ;@jyyyyyI:;Z:::::::^<>:F:AlqfG[maNFO=;::::::::_
+J;@j:j<>:yayA:<::::::=J:nF>:V:Y<FCWMmvG;J::::::::JCB:yyyxI:;Z::::::j;>
+:GJ:>:nYN::wyyyq<J=j=B:KJ:nYN;V;^;f;;JAjA>:[Z:F<N<;jCJDjDJE>:i:k:m:o:q
+:s:u:wAyA:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::j:b:;B:<::Jnxl@L:<::::::j:nyyYZDjysy?bm?:;JZC:bKi:UTTAeVYuVYeScEBET
+VeURcUTYeU;sFWCFl:Lnc<l\\@AJ:h:Pnr:tlS^xsNpkK:<::::::j;J::::::::::JHJ;
+VqVaW>:>e;HC;vZM<;j;@j:Hj:dj:HjH@Z;NZ<@?_rZ=m;xj:V[;NZBH@@[DN\\=@IAr=:
+N\\=XG@;?b[QKCHrj:B\\_[KJC::N\\=XGJ;J;hRM<L;TrON\\=HF:_rZU]KJC::N\\=XG
+J;N\\\\N\\=HIAr=:Q=bZMk;>:QR>=b:K^:>Z:FZLVJDJ=q]<>kkr:@ZFFZ<>mBVW]J:hj
+:bUf[<fB]mtFFcmnvGWMJnC==nHEM:>::::::;C:?jysy:>:;B::::::^:>[;J:<:?ja^G
+>D_mlVH[KRJ:<:::::::>=?R:AJ:^:vYxY:B::::::F;^`?B:;B::::::::::::jysy:>:
+<:::::::::::::::::::vYxI:;Z::::::::J=AKKB:;::::::::::yayY:^:FZ:>:yayQZ
+:J:jSY;mR;<JsM:=j>r:me:N:s:;j<B:Mb:>Z:f:NZ;F:f:FZ<vyyyy:f:n_;>=f:V[<>:
+<j<J@DJJMJ:QKC>:Gc;YJGvyyuy;B:[B:<JZyyyGpyyY;T?Fd>j?<Z:n>^;UTRcETcTX[U
+S<JB@JHB:qi:;Xy>Z:JBAZ:b:;b:<kc`qpDpql@Ig>OrNKev_Jf@usYqj@usYQJ<ntYQ^E
+Km`K<>Z:f_;B:KB:N`DFu<nA=Z:fvs_=<jw?^yM:<:[>DZ<B>jqjLEK?DVnDYC:==;kt;>
+:Uk:^:>x;J>JSdjqIJY=j:B:uSXsZ:VY;fy>Z:JB[<b:<;vgfkME[N?glQ<jjJJfX:;jP>
+:C:[q:>;N`D>j<vkKF:;B:USXKJ:N@NqFFZ:jO`Q>JSJJdj:jO:_;=W;=:QKHB:qQJZ:JB
+G:lV<DZJ^dcSSaEBWTSiEB_tUUURWMf@usGF>>eAJ:f_;F:CJ:>X;J>JSNY_p:B:WUXK:_
+kqIjXFZ:jo`Q>JS>v<NiMF:VGJSJB<K;>:UuTK:_;mf==:U=N@NbCF:;johP><:_;AH;=:
+QMH>:qQ:[:JBK:lF::JqjsGF>>eAJ:f?;J<JrG:K:_K:wrLF:;B:muTK:_;Au==J:>ie?;
+N@^tGF:Ffe?;N@f\\BF:>IJSjWUj:>:==N@>r=FZ:>:k=N@>l<FZ:jj^=VY;;<:[N:BmJd
+js:JqjsGF>>eAJ:f?=J<Jr?:K:_kqg_;F:;B:]sTK:_KdAjQMk:Ze?;b<;Q[]j:Ze;d:;v
+;=J:rTZDJdLj:jR:_;ss:=:]KHjw?JB:>LBm:::W=aqjJJfX:;jP>:C:[q:>;N@;NHLk:B
+:MsTK:_;Gb:=J:>_e_=VYZ:JB[<^Z<j`LOJPNvLQs@`LN[?AglQ<k<==;kt;>:Uk:^:>X;
+J>JSb:gr<=J:<j_hP?>Z:n^@J?vYxy:J:^=VY[j=B:;JXE:lv:DJ;Dlc`qsLqlp`S>sLnF
+;J?F>OV:B:J<MYC^:f?;J<JrG:AB:;B:;:::Ja@Na`N:>Z::::::::::::::::::::::::
+6:" }{TEXT -1 33 " \350 \357\356\377\361\355\350\362\374 \357\356\353
+\363\367\345\355\355\373\351 \360\345\347\363\353\374\362\340\362." }}
+}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 101 "stats[fit,leastsquare[[x,y
+,z]]]([[1,2,3,5,8,13],[21,34,55,89,144,233],[377,610,987,1597,2584,418
+1]]);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#-&%&statsG6$%$fitG&%,leastsqu
+areG6#7%%\"xG,(*&$\"++eS$y%!#5\"\"\")F,\"\"#F2!\"\"*&$\"+L.YTJF1F2F,F2
+F2$\"+b=DM:!\")F2%\"zG6#7%7(F2F4\"\"$\"\"&\"\")\"#87(\"#@\"#M\"#b\"#*)
+\"$W\"\"$L#7(\"$x$\"$5'\"$()*\"%(f\"\"%%e#\"%\"=%" }}}{EXCHG {PARA 0 "
+> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 
+"" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}{PARA 11 "" 1 "" 
+{TEXT -1 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}}}}
+{MARK "0 11 0 0" 9 }{VIEWOPTS 1 1 0 1 1 1803 1 1 1 1 }{PAGENUMBERS 0 
+1 2 33 1 1 }
